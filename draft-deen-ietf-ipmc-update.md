@@ -51,7 +51,7 @@ TODO Abstract
 
 # Introduction
 
-The IETF Trust, a Virginia Common Trust was establised in 2005 to be the intellectical property (IP) manager for the IETF activity. Since then the IETF Trust has held and managed copyrights granted by authors of IETF Contributions and IETF Documents following the terms of BCP78 as detailed in {{RFC5378}} and its predecessors. The legal successor to the IETF Trust is the IETF Intellectual Property Management Corporation which will fill the IETF Trust's role of Intellectual Propoerty Mangemement (IPM) to the IETF.   This document recognizes this successor role and updates IETF documents with this recognition.
+The IETF Trust, a Virginia Common Trust was establised in 2005 to be the intellectical property (IP) manager for the IETF activity. Since then the IETF Trust has held and managed copyrights granted by authors of IETF Contributions and IETF Documents following the terms of BCP78 as detailed in {{!RFC5378}} and its predecessors. The legal successor to the IETF Trust is the IETF Intellectual Property Management Corporation which will fill the IETF Trust's role of Intellectual Propoerty Mangemement (IPM) to the IETF.   This document recognizes this successor role and updates IETF documents with this recognition.
 
 ## IETF Trust
 
@@ -65,11 +65,11 @@ The IETF Intellectual Property Management Corporation (IPMC) a Delaware not-for-
 
 ## References to the IETF Trust in IETF RFCs and BCPs
 
-The IETF Intellectual Propoerty Management (IPM) role is hereby understood to be the operational role provided by the IETF Trust as mentioned in IETF documents inclduing {{RFC5378}} and BCP78.   Further, where appropriate the IETF Intellectual Property Management Corporation is understaood to be the legal entity succeeding the IETF Trust as the legal entity to which the rights granted by authors of IETF Contributions and IETF Documents are granted.
+The IETF Intellectual Propoerty Management (IPM) role is hereby understood to be the operational role provided by the IETF Trust as mentioned in IETF documents inclduing {{!RFC5378}} and BCP78.   Further, where appropriate the IETF Intellectual Property Management Corporation is understaood to be the legal entity succeeding the IETF Trust as the legal entity to which the rights granted by authors of IETF Contributions and IETF Documents are granted.
 
 ## Appointments of IETF Trustees
 
-RFC8714 details who IETF Trustees were appointed.  Henceforth, the process detailed in RFC8714 is updated to apply to the appointment of the Directors of the IETF Intellectual Property Management Corporation (IPMC) a Delaware not-for-profit Corporation established in 2022.
+{{!RFC8714} details who IETF Trustees were appointed.  Henceforth, the process detailed in RFC8714 is updated to apply to the appointment of the Directors of the IETF Intellectual Property Management Corporation (IPMC) a Delaware not-for-profit Corporation established in 2022.
 
 # Conventions and Definitions
 
