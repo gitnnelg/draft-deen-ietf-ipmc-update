@@ -99,7 +99,7 @@ Table of Contents
    authors of IETF Contributions and IETF Documents grant to the IETF
    Trust a set of rights to the work to enable the work to be used
    within the IETF activity.  This supports the document streams as
-   described in the [RFC9280].
+   described in the RFC9280.
 
 1.2.  IETF Intellectual Property Management Corporation
 
@@ -124,11 +124,13 @@ Table of Contents
 
 2.2.  Appointments of IETF Trustees
 
-   RFC8714 details who IETF Trustees were appointed.  Henceforth, the
-   process detailed in RFC8714 is updated to apply to the appointment of
-   the Directors of the IETF Intellectual Property Management
-   Corporation (IPMC) a Delaware not-for-profit Corporation established
-   in 2022.
+   The RFC8714 details how IETF Trustees are appointed.  Henceforth, the
+   process detailed in RFC8714 is updated to also apply to the
+   appointment of the Directors of the IETF Intellectual Property
+   Management Corporation (IPMC) a Delaware not-for-profit Corporation
+   established in 2022.  Until the closure of the IETF Trust legal
+   entity, the Directors of the IPMC are understood to be the same as
+   appointments made to the IETF Trust as Trustees.
 
 3.  Conventions and Definitions
 
