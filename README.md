@@ -1,8 +1,8 @@
 <!-- regenerate: on (set to off if you edit this file) -->
 
-# TODO - Your title
+# Update to Recognize the IETF IPMC as the IETF Trust Successor
 
-This is the working area for the individual Internet-Draft, "TODO - Your title".
+This is the working area for the individual Internet-Draft, "Update to Recognize the IETF IPMC as the IETF Trust Successor".
 
 * [Editor's Copy](https://gitnnelg.github.io/draft-deen-ietf-ipmc-update/#go.draft-deen-ietf-ipmc-update.html)
 * [Datatracker Page](https://datatracker.ietf.org/doc/draft-deen-ietf-ipmc-update)
