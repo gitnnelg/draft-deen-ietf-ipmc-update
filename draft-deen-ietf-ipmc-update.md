@@ -1,21 +1,24 @@
 ---
 
 title: "Update to Recognize the IETF IPMC as the IETF Trust Successor"
-abbrev: "IPMC"
+abbrev: "IETFIPMC"
 category: info
 
 docname: draft-deen-ietf-ipmc-update
+
 submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
 number:
 date:
 consensus: true
 v: 3
-area: GEN
-workgroup: WG Working Group
+area: "General Area"
+workgroup: gen
+
 keyword:
  - IETF IPR
  - IETF Trust
  - IETF IPMC
+
 venue:
    group: "genarea"
    type: "Working Group"
