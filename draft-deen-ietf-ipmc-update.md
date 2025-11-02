@@ -4,7 +4,7 @@ title: "Update to Recognize the IETF IPMC as the IETF Trust Successor"
 abbrev: "IPMC"
 category: info
 
-docname: draft-todo-yourname-protocol-latest
+docname: draft-deen-ietf-ipmc-update
 submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
 number:
 date:
@@ -31,6 +31,14 @@ author:
     email: rgd.ietf@gmail.com
 
 normative:
+   RFC4748:
+   RFC3978:
+   RFC5377:
+   RFC3979:
+   RFC5378:
+   RFC2026:
+   RFC4371:
+   RFC9280:
 
 informative:
 
@@ -45,11 +53,11 @@ TODO Abstract
 
 # Introduction
 
-The IETF Trust, a Virginia Common Trust was establised in 2005 to be the intellectical property (IP) manager for the IETF activity. Since then the IETF Trust has held and managed copyrights granted by authors of IETF Contributions and IETF Documents following the terms of BCP78 as detailed in RFC5378 and its predecessors. The legal successor to the IETF Trust is the IETF Intellectual Property Management Corporation which will fill the IETF Trust's role of Intellectual Propoerty Mangemement (IPM) to the IETF.   This document recognizes this successor role and updates IETF documents with this recognition.
+The IETF Trust, a Virginia Common Trust was establised in 2005 to be the intellectical property (IP) manager for the IETF activity. Since then the IETF Trust has held and managed copyrights granted by authors of IETF Contributions and IETF Documents following the terms of {{BCP78}} as detailed in {{RFC5378}} and its predecessors. The legal successor to the IETF Trust is the IETF Intellectual Property Management Corporation which will fill the IETF Trust's role of Intellectual Propoerty Mangemement (IPM) to the IETF.   This document recognizes this successor role and updates IETF documents with this recognition.
 
 ## IETF Trust
 
-The [IETF Trust](https://trustee.ietf.org/) has provided intellectual property management for the IETF since 2005.  Following BCP78, authors of IETF Contributions and IETF Documents grant to the IETF Trust a set of rights to the work to enable the work to be used within the IETF activity.    This supports the document streams as described in the RFC9280.
+The [IETF Trust](https://trustee.ietf.org/) has provided intellectual property management for the IETF since 2005.  Following {{BCP78}}, authors of IETF Contributions and IETF Documents grant to the IETF Trust a set of rights to the work to enable the work to be used within the IETF activity.    This supports the document streams as described in the {{RFC9280}}.
 
 ## IETF Intellectual Property Management Corporation
 
@@ -59,7 +67,7 @@ The IETF Intellectual Property Management Corporation (IPMC) a Delaware not-for-
 
 ## References to the IETF Trust in IETF RFCs and BCPs
 
-The IETF Intellectual Propoerty Management (IPM) role is hereby understood to be the operational role provided by the IETF Trust as mentioned in IETF documents inclduing RFC5378 and BCP78.   Further, where appropriate the IETF Intellectual Property Management Corporation is understaood to be the legal entity succeeding the IETF Trust as the legal entity to which the rights granted by authors of IETF Contributions and IETF Documents are granted.
+The IETF Intellectual Propoerty Management (IPM) role is hereby understood to be the operational role provided by the IETF Trust as mentioned in IETF documents inclduing {{RFC5378}} and {{BCP78}}.   Further, where appropriate the IETF Intellectual Property Management Corporation is understaood to be the legal entity succeeding the IETF Trust as the legal entity to which the rights granted by authors of IETF Contributions and IETF Documents are granted.
 
 ## Appointments of IETF Trustees
 
