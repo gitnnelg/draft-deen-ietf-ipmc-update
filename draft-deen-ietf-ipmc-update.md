@@ -4,7 +4,7 @@ title: "Update to Recognize the IETF IPMC as the IETF Trust Successor"
 abbrev: "IETFIPMC"
 category: info
 
-docname: draft-deen-ipmc-update
+docname: draft-deen-ietf-ipmc-update-latest
 
 submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
 number:
@@ -23,7 +23,7 @@ keyword:
 venue:
    group: "genarea"
    type: "Working Group"
-   mail: tlp-interest@ietf.org
+   mail: ipr-wg@ietf.org
    arch: https://mailarchive.ietf.org/arch/browse/tlp-interest/
    github: gitnnelg/draft-deen-ietf-ipmc-update
    latest: https://gitnnelg.github.io/draft-deen-ietf-ipmc-update/draft-deen-ietf-ipmc-update.html
