@@ -56,7 +56,7 @@ The IETF Trust, a Virginia Common Trust was establised in 2005 to be the intelle
 
 ## IETF Trust
 
-The [IETF Trust](https://trustee.ietf.org/) has provided intellectual property management for the IETF since 2005.  Following BCP78, authors of IETF Contributions and IETF Documents grant to the IETF Trust a set of rights to the work to enable the work to be used within the IETF activity.    This supports the document streams as described in the {{RFC9280}}.
+The [IETF Trust](https://trustee.ietf.org/) has provided intellectual property management for the IETF since 2005.  Following BCP78, authors of IETF Contributions and IETF Documents grant to the IETF Trust a set of rights to the work to enable the work to be used within the IETF activity. This supports the document streams as described in the RFC9280.
 
 ## IETF Intellectual Property Management Corporation
 
@@ -70,7 +70,7 @@ The IETF Intellectual Propoerty Management (IPM) role is hereby understood to be
 
 ## Appointments of IETF Trustees
 
-RFC8714 details who IETF Trustees were appointed.  Henceforth, the process detailed in RFC8714 is updated to apply to the appointment of the Directors of the IETF Intellectual Property Management Corporation (IPMC) a Delaware not-for-profit Corporation established in 2022.
+The RFC8714 details how IETF Trustees are appointed.  Henceforth, the process detailed in RFC8714 is updated to also apply to the appointment of the Directors of the IETF Intellectual Property Management Corporation (IPMC) a Delaware not-for-profit Corporation established in 2022.  Until the closure of the IETF Trust legal entity, the Directors of the IPMC are understood to be the same as appointments made to the IETF Trust as Trustees.
 
 # Conventions and Definitions
 
