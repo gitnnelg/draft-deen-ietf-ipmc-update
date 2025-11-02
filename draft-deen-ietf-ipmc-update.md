@@ -13,6 +13,7 @@ consensus: true
 v: 3
 area: "General Area"
 workgroup: gen
+standalone: yes
 
 keyword:
  - IETF IPR
