@@ -70,7 +70,7 @@ The IETF Intellectual Propoerty Management (IPM) role is hereby understood to be
 
 ## Appointments of IETF Trustees
 
-{{!RFC8714} details who IETF Trustees were appointed.  Henceforth, the process detailed in RFC8714 is updated to apply to the appointment of the Directors of the IETF Intellectual Property Management Corporation (IPMC) a Delaware not-for-profit Corporation established in 2022.
+RFC8714 details who IETF Trustees were appointed.  Henceforth, the process detailed in RFC8714 is updated to apply to the appointment of the Directors of the IETF Intellectual Property Management Corporation (IPMC) a Delaware not-for-profit Corporation established in 2022.
 
 # Conventions and Definitions
 
@@ -90,8 +90,6 @@ This document has no IANA actions.
 --- back
 
 # Acknowledgments
-
-{:numbered="false"}
 
 The IETF Trustees and IETF Intellectual Property Management Corporation directors during the restructuring of the IETF Trust to the IETF IPMC were:
 Glenn Deen, John Levine, Joel Halpern, Kathleen Moriarty, Victor Kuarsingh, Jon Peterson, Kristin Berdan, Wendy Seltzer.
