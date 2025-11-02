@@ -64,7 +64,7 @@ The IETF Intellectual Property Management Corporation (IPMC) a Delaware not-for-
 
 ## References to the IETF Trust in IETF RFCs and BCPs
 
-The IETF Intellectual Propoerty Management (IPM) role is hereby understood to be the operational role provided by the IETF Trust as mentioned in IETF documents inclduing {{RFC5378}} and {{BCP78}}.   Further, where appropriate the IETF Intellectual Property Management Corporation is understaood to be the legal entity succeeding the IETF Trust as the legal entity to which the rights granted by authors of IETF Contributions and IETF Documents are granted.
+The IETF Intellectual Propoerty Management (IPM) role is hereby understood to be the operational role provided by the IETF Trust as mentioned in IETF documents inclduing {{RFC5378}} and BCP78.   Further, where appropriate the IETF Intellectual Property Management Corporation is understaood to be the legal entity succeeding the IETF Trust as the legal entity to which the rights granted by authors of IETF Contributions and IETF Documents are granted.
 
 ## Appointments of IETF Trustees
 
