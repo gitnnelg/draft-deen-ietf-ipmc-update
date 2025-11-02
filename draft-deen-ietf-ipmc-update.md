@@ -76,21 +76,16 @@ RFC8714 details who IETF Trustees were appointed.  Henceforth, the process detai
 
 {::boilerplate bcp14-tagged}
 
-
 # Security Considerations
 
 This document as no security considerations.
-
 
 # IANA Considerations
 
 This document has no IANA actions.
 
-
 --- back
 
 # Acknowledgments
 
-The IETF Trustees and IETF Intellectual Property Management Corporation directors during the restructuring of the IETF Trust to the IETF IPMC were:
-Glenn Deen, John Levine, Joel Halpern, Kathleen Moriarty, Victor Kuarsingh, Jon Peterson, Kristin Berdan, Wendy Seltzer.
-
+The IETF Trustees and IETF Intellectual Property Management Corporation directors during the restructuring of the IETF Trust to the IETF IPMC were: Glenn Deen, John Levine, Joel Halpern, Kathleen Moriarty, Victor Kuarsingh, Jon Peterson, Kristin Berdan, Wendy Seltzer.
