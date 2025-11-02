@@ -35,12 +35,6 @@ author:
 
 normative:
    RFC4748:
-   RFC3978:
-   RFC5377:
-   RFC3979:
-   RFC5378:
-   RFC2026:
-   RFC4371:
    RFC9280:
 
 informative:
