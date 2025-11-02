@@ -1,0 +1,185 @@
+
+
+
+
+gen                                                              G. Deen
+Internet-Draft                                      Comcast-NBCUniversal
+Intended status: Informational                           2 November 2025
+Expires: 6 May 2026
+
+
+     Update to Recognize the IETF IPMC as the IETF Trust Successor
+                   draft-deen-ietf-ipmc-update-latest
+
+Abstract
+
+   TODO Abstract
+
+About This Document
+
+   This note is to be removed before publishing as an RFC.
+
+   The latest revision of this draft can be found at
+   https://gitnnelg.github.io/draft-deen-ietf-ipmc-update/draft-deen-
+   ietf-ipmc-update.html.  Status information for this document may be
+   found at https://datatracker.ietf.org/doc/draft-deen-ietf-ipmc-
+   update/.
+
+   Discussion of this document takes place on the genarea Working Group
+   mailing list (mailto:ipr-wg@ietf.org), which is archived at
+   https://mailarchive.ietf.org/arch/browse/tlp-interest/.  Subscribe at
+   https://www.ietf.org/mailman/listinfo/ipr-wg/.
+
+   Source for this draft and an issue tracker can be found at
+   https://github.com/gitnnelg/draft-deen-ietf-ipmc-update.
+
+Status of This Memo
+
+   This Internet-Draft is submitted in full conformance with the
+   provisions of BCP 78 and BCP 79.
+
+   Internet-Drafts are working documents of the Internet Engineering
+   Task Force (IETF).  Note that other groups may also distribute
+   working documents as Internet-Drafts.  The list of current Internet-
+   Drafts is at https://datatracker.ietf.org/drafts/current/.
+
+   Internet-Drafts are draft documents valid for a maximum of six months
+   and may be updated, replaced, or obsoleted by other documents at any
+   time.  It is inappropriate to use Internet-Drafts as reference
+   material or to cite them other than as "work in progress."
+
+   This Internet-Draft will expire on 6 May 2026.
+
+Copyright Notice
+
+   Copyright (c) 2025 IETF Trust and the persons identified as the
+   document authors.  All rights reserved.
+
+   This document is subject to BCP 78 and the IETF Trust's Legal
+   Provisions Relating to IETF Documents (https://trustee.ietf.org/
+   license-info) in effect on the date of publication of this document.
+   Please review these documents carefully, as they describe your rights
+   and restrictions with respect to this document.  Code Components
+   extracted from this document must include Revised BSD License text as
+   described in Section 4.e of the Trust Legal Provisions and are
+   provided without warranty as described in the Revised BSD License.
+
+Table of Contents
+
+   1.  Introduction
+     1.1.  IETF Trust
+     1.2.  IETF Intellectual Property Management Corporation
+   2.  Updates
+     2.1.  References to the IETF Trust in IETF RFCs and BCPs
+     2.2.  Appointments of IETF Trustees
+   3.  Conventions and Definitions
+   4.  Security Considerations
+   5.  IANA Considerations
+   6.  Normative References
+   Appendix A.  Acknowledgments
+   Author's Address
+
+1.  Introduction
+
+   The IETF Trust, a Virginia Common Trust was establised in 2005 to be
+   the intellectical property (IP) manager for the IETF activity.  Since
+   then the IETF Trust has held and managed copyrights granted by
+   authors of IETF Contributions and IETF Documents following the terms
+   of BCP78 as detailed in RFC5378 and its predecessors.  The legal
+   successor to the IETF Trust is the IETF Intellectual Property
+   Management Corporation which will fill the IETF Trust's role of
+   Intellectual Propoerty Mangemement (IPM) to the IETF.  This document
+   recognizes this successor role and updates IETF documents with this
+   recognition.
+
+1.1.  IETF Trust
+
+   The IETF Trust (https://trustee.ietf.org/) has provided intellectual
+   property management for the IETF since 2005.  Following BCP78,
+   authors of IETF Contributions and IETF Documents grant to the IETF
+   Trust a set of rights to the work to enable the work to be used
+   within the IETF activity.  This supports the document streams as
+   described in the [RFC9280].
+
+1.2.  IETF Intellectual Property Management Corporation
+
+   The IETF Intellectual Property Management Corporation (IPMC) a
+   Delaware not-for-profit corpoation was incorporated in 2022 with the
+   purpose of being the successor to the IETF Trust, continuing on the
+   role and traditions of the IETF Trust and providing IETF Intellectual
+   Propoerty Management (IETF IPM) (https://www.ietf-ipm.org/) just as
+   the IETF Trust has.
+
+2.  Updates
+
+2.1.  References to the IETF Trust in IETF RFCs and BCPs
+
+   The IETF Intellectual Propoerty Management (IPM) role is hereby
+   understood to be the operational role provided by the IETF Trust as
+   mentioned in IETF documents inclduing RFC5378 and BCP78.  Further,
+   where appropriate the IETF Intellectual Property Management
+   Corporation is understaood to be the legal entity succeeding the IETF
+   Trust as the legal entity to which the rights granted by authors of
+   IETF Contributions and IETF Documents are granted.
+
+2.2.  Appointments of IETF Trustees
+
+   RFC8714 details who IETF Trustees were appointed.  Henceforth, the
+   process detailed in RFC8714 is updated to apply to the appointment of
+   the Directors of the IETF Intellectual Property Management
+   Corporation (IPMC) a Delaware not-for-profit Corporation established
+   in 2022.
+
+3.  Conventions and Definitions
+
+   The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT",
+   "SHOULD", "SHOULD NOT", "RECOMMENDED", "NOT RECOMMENDED", "MAY", and
+   "OPTIONAL" in this document are to be interpreted as described in
+   BCP 14 [RFC2119] [RFC8174] when, and only when, they appear in all
+   capitals, as shown here.
+
+4.  Security Considerations
+
+   This document as no security considerations.
+
+5.  IANA Considerations
+
+   This document has no IANA actions.
+
+6.  Normative References
+
+   [RFC2119]  Bradner, S., "Key words for use in RFCs to Indicate
+              Requirement Levels", BCP 14, RFC 2119,
+              DOI 10.17487/RFC2119, March 1997,
+              <https://www.rfc-editor.org/rfc/rfc2119>.
+
+   [RFC4748]  Bradner, S., Ed., "RFC 3978 Update to Recognize the IETF
+              Trust", RFC 4748, DOI 10.17487/RFC4748, October 2006,
+              <https://www.rfc-editor.org/rfc/rfc4748>.
+
+   [RFC5378]  Bradner, S., Ed. and J. Contreras, Ed., "Rights
+              Contributors Provide to the IETF Trust", BCP 78, RFC 5378,
+              DOI 10.17487/RFC5378, November 2008,
+              <https://www.rfc-editor.org/rfc/rfc5378>.
+
+   [RFC8174]  Leiba, B., "Ambiguity of Uppercase vs Lowercase in RFC
+              2119 Key Words", BCP 14, RFC 8174, DOI 10.17487/RFC8174,
+              May 2017, <https://www.rfc-editor.org/rfc/rfc8174>.
+
+   [RFC9280]  Saint-Andre, P., Ed., "RFC Editor Model (Version 3)",
+              RFC 9280, DOI 10.17487/RFC9280, June 2022,
+              <https://www.rfc-editor.org/rfc/rfc9280>.
+
+Appendix A.  Acknowledgments
+
+   The IETF Trustees and IETF Intellectual Property Management
+   Corporation directors during the restructuring of the IETF Trust to
+   the IETF IPMC were: Glenn Deen, John Levine, Joel Halpern, Kathleen
+   Moriarty, Victor Kuarsingh, Jon Peterson, Kristin Berdan, Wendy
+   Seltzer.
+
+Author's Address
+
+   Glenn Deen
+   Comcast-NBCUniversal
+   Email: rgd.ietf@gmail.com
