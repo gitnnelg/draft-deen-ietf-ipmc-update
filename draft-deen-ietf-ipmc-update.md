@@ -4,7 +4,7 @@ title: "Update to Recognize the IETF IPMC as the IETF Trust Successor"
 abbrev: "IETFIPMC"
 category: info
 
-docname: draft-deen-ietf-ipmc-update
+docname: draft-deen-ipmc-update
 
 submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
 number:
