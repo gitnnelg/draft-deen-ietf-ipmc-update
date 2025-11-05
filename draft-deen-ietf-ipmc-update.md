@@ -87,7 +87,7 @@ The rights held by the IETF Trust will transfer to its successor the IETF IPMC. 
 
 ## IETF Trustees and IPMC Directors Appointment
 
-RFC8714 details how Trustees are appointed to the IETF Trust. The process detailed in RFC8714 shall be updated to apply to the appointment of the Directors of the IETF Intellectual Property Management Corporation (IPMC), the Delaware not-for-profit Corporation established in 2022.  References to "IETF Trust" shall be read to refer to "IPMC," and "Trustee" or "Trustees" shall be read to refer to "Director" or "Directors." 
+RFC8714 details how Trustees are appointed to the IETF Trust. The process detailed in RFC8714 shall be updated to apply to the appointment of the Directors of the IETF Intellectual Property Management Corporation (IPMC), the Delaware not-for-profit Corporation established in 2022.  References to "IETF Trust" shall be read to refer to "IPMC," and "Trustee" or "Trustees" shall be read to refer to "Director" or "Directors".
 
 # Conventions and Definitions
 
