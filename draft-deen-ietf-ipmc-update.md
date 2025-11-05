@@ -64,7 +64,7 @@ The [IETF Trust](https://trustee.ietf.org/) has provided intellectual property m
 
 ## IETF Intellectual Property Management Corporation
 
-The IETF Intellectual Property Management Corporation (IPMC) a Delaware not-for-profit corpoation was incorporated in 2022 with the purpose of being the successor to the IETF Trust, continuing on the role and traditions of the IETF Trust and providing [IETF Intellectual Propoerty Management (IETF IPM)](https://www.ietf-ipm.org/) just as the IETF Trust has.
+The IETF Intellectual Property Management Corporation (IPMC) a Delaware not-for-profit corpoation was incorporated in 2022 with the purpose of being the successor to the IETF Trust, continuing on the role and traditions of the IETF Trust and providing [IETF Intellectual Propoerty Management (IPM)](https://www.ietf-ipm.org/) just as the IETF Trust has done since 2005.
 
 # Updates
 
