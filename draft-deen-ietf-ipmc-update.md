@@ -72,7 +72,9 @@ The IETF Intellectual Property Management Corporation (IPMC), a Delaware not-for
 
 The term "IETF Trust" is used in two ways in IETF RFCs and BCPs, both as the descriptive name for the role of holding IPR and the name of the legal entity which performs the role such as mentions in RFC5378.
 
-The role henceforth may be formally named IETF Intellectual Property Management (IPM), while the legal name IETF Intellectual Property Management Corportation (IPMC) shall be recgonized as the successor name of the IETF Trust.
+Where "IETF Trust" is used to refer to the function of rights-holder, "IETF IPM" shall be substituted.
+
+Where the "IETF Trust" legal entity is referenced, its successor the "Intellectual Property Management Corportation (IPMC)" shall be recgonized.
 
 ## Use of IETF Trust and IETF Intellectusl Property in Copyright Boilerplate
 
@@ -85,7 +87,7 @@ The rights held by the IETF Trust will transfer to its successor the IETF IPMC. 
 
 ## IETF Trustees and IPMC Directors Appointment
 
-RFC8714 details how Trustees are appointed to the IETF Trust.  Henceforth, the process detailed in RFC8714 is updated to also apply to the appointment of the Directors of the IETF Intellectual Property Management Corporation (IPMC) a Delaware not-for-profit Corporation established in 2022.  Until the final shutdown of the IETF Trust legal entity, the appointments of Directors of the IPMC are understood to be the same persons the appointing bodies have appointed as Trustees of the IETF Trust.
+RFC8714 details how Trustees are appointed to the IETF Trust. The process detailed in RFC8714 shall be updated to apply to the appointment of the Directors of the IETF Intellectual Property Management Corporation (IPMC), the Delaware not-for-profit Corporation established in 2022.  References to "IETF Trust" shall be read to refer to "IPMC," and "Trustee" or "Trustees" shall be read to refer to "Director" or "Directors." 
 
 # Conventions and Definitions
 
