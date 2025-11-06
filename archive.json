@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2025-11-04T00:42:47.442415+00:00",
+  "timestamp": "2025-11-06T00:43:27.986238+00:00",
   "repo": "gitnnelg/draft-deen-ietf-ipmc-update",
   "labels": [
     {
@@ -50,5 +50,61 @@
     }
   ],
   "issues": [],
-  "pulls": []
+  "pulls": [
+    {
+      "number": 1,
+      "id": "PR_kwDOQNtFFc6xtY3e",
+      "title": "Editorial fixes draft-deen-ietf-ipmc-update.md",
+      "url": "https://github.com/gitnnelg/draft-deen-ietf-ipmc-update/pull/1",
+      "state": "MERGED",
+      "author": "wseltzer",
+      "authorAssociation": "CONTRIBUTOR",
+      "assignees": [],
+      "labels": [],
+      "body": "Editorial fixes and typo cleanup",
+      "createdAt": "2025-11-05T17:40:02Z",
+      "updatedAt": "2025-11-05T18:53:06Z",
+      "baseRepository": "gitnnelg/draft-deen-ietf-ipmc-update",
+      "baseRefName": "main",
+      "baseRefOid": "af8bc1b6439f15d60a282c2ef7e08c0d289e5e6a",
+      "headRepository": "wseltzer/draft-deen-ietf-ipmc-update",
+      "headRefName": "patch-1",
+      "headRefOid": "5a29a76e5376f27b843d98d15d4b4ea02e8199b8",
+      "closedAt": "2025-11-05T18:53:06Z",
+      "mergedAt": "2025-11-05T18:53:06Z",
+      "mergedBy": "gitnnelg",
+      "mergeCommit": {
+        "oid": "68123beacb3841cf9e524f217c35ddce4d0d5779"
+      },
+      "comments": [],
+      "reviews": [
+        {
+          "id": "PRR_kwDOQNtFFc7MEyNd",
+          "commit": {
+            "abbreviatedOid": "5a29a76"
+          },
+          "author": "gitnnelg",
+          "authorAssociation": "OWNER",
+          "state": "APPROVED",
+          "body": "",
+          "createdAt": "2025-11-05T18:52:25Z",
+          "updatedAt": "2025-11-05T18:52:25Z",
+          "comments": []
+        },
+        {
+          "id": "PRR_kwDOQNtFFc7MEyue",
+          "commit": {
+            "abbreviatedOid": "5a29a76"
+          },
+          "author": "gitnnelg",
+          "authorAssociation": "OWNER",
+          "state": "APPROVED",
+          "body": "",
+          "createdAt": "2025-11-05T18:52:53Z",
+          "updatedAt": "2025-11-05T18:52:53Z",
+          "comments": []
+        }
+      ]
+    }
+  ]
 }
