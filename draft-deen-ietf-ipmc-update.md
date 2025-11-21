@@ -99,8 +99,6 @@ The IETF IPMC bylaws obligate the IETF IPMC to manage IETF assets for the benefi
 
 # Conventions and Definitions
 
-{::boilerplate bcp14-tagged}
-
 # Security Considerations
 
 This document has no security considerations.
