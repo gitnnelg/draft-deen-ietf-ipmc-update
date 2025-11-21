@@ -71,7 +71,7 @@ All references to “IETF Trust” in any IETF document, including RFCs, BCPs, I
 
 ## Use of IETF Trust and IETF IPMC in other IETF IPR Framework Documents
 
-The intellectual property rights framework for IETF contributions is established in RFC 5378 (BCP 78).  The IETF Trust has implemented this framework through its [Trust Legal Provisions](https://trustee.ietf.org/documents/trust-legal-provisions/) at https://trustee.ietf.org/documents/trust-legal-provisions, and the IETF IPMC will continue this implementation as the successor entity.  
+The intellectual property rights framework for IETF contributions is established in RFC 5378 (BCP 78).  The IETF Trust has implemented this framework through its [Trust Legal Provisions](https://trustee.ietf.org/documents/trust-legal-provisions/) at https://trustee.ietf.org/documents/trust-legal-provisions, and the IETF IPMC will continue this implementation as the successor entity.
 
 All references to the IETF Trust in RFC 5378 and related operational documents shall be read as referring to the IETF IPMC effective upon the transition.
 
