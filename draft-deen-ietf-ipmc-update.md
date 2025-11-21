@@ -24,7 +24,7 @@ venue:
    group: "genarea"
    type: "Working Group"
    mail: ipr-wg@ietf.org
-   arch: https://mailarchive.ietf.org/arch/browse/tlp-interest/
+   arch: https://mailarchive.ietf.org/arch/browse/ipr-wg
    github: gitnnelg/draft-deen-ietf-ipmc-update
    latest: https://gitnnelg.github.io/draft-deen-ietf-ipmc-update/draft-deen-ietf-ipmc-update.html
 
@@ -52,6 +52,7 @@ informative:
 
 This document updates IETF documents that reference the IETF Trust to include the Trust's successor, the IETF Intellectual Property Management Corporation.
 
+Discussion of this draft is on the ipr-wg@ietf.org mailing list.
 
 --- middle
 
