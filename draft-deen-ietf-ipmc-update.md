@@ -87,9 +87,9 @@ The process defined in RFC8714 shall define the process by which IETF IPMC Direc
 
 ## Update to URLs in RFC5378
 
-The existing URLs in RFC5378 which reference https://trustee.ietf.org/ will continue to be maintained as they appear in published documents and will be maintained in perpetuity.
+The existing URLs in RFC5378 which reference the [IETF Trust](https://trustee.ietf.org/) web site (https://trustee.ietf.org/) will continue to be maintained as they appear in published documents and will be maintained in perpetuity.
 
-Additionally, the IPMC has established a new web URL https://www.ietf-ipm.org/ which will henceforth contain IPMC- specific materials, including the updated Trust Legal Provisions (which have been renamed the Technical Legal Provisions) version 6.0 and beyond.
+Additionally, the IPMC has established a new web site for the [IETF IPMC](https://www.ietf-ipm.org/) (https://www.ietf-ipm.org/) which will henceforth contain IPMC- specific materials, including the updated Trust Legal Provisions (which have been renamed the Technical Legal Provisions) version 6.0 and beyond.
 
 # IETF IPMC recognition of IETF BCPs
 
