@@ -91,7 +91,7 @@ Table of Contents
    intellectual property rights (IPR) manager for the IETF.  The IETF
    Trust has held and managed IPR, including those granted by authors of
    IETF Contributions and IETF Documents following the terms of BCP78,
-   currently specified in RFC5378 and its predecessors.
+   currently specified in [RFC5378] and its predecessors.
 
    The IETF Intellectual Property Management Corporation (IPMC) is a
    Delaware not-for-profit corporation established in 2022 with the
@@ -123,6 +123,7 @@ Table of Contents
    (https://trustee.ietf.org/documents/trust-legal-provisions/) at
    https://trustee.ietf.org/documents/trust-legal-provisions, and the
    IETF IPMC will continue this implementation as the successor entity.
+
    All references to the IETF Trust in RFC 5378 and related operational
    documents shall be read as referring to the IETF IPMC effective upon
    the transition.
@@ -142,10 +143,10 @@ Table of Contents
 
 2.4.  IETF Trustees and IPMC Directors Appointment
 
-   The process defined in RFC8714 shall define the process by which IETF
-   IPMC Directors are nominated Nominations done via RFC8714 to the IETF
-   IPMC shall also be eligible to accept appointment as IETF Trustees
-   until the Trust is dissolved.
+   The process defined in [RFC8714] shall define the process by which
+   IETF IPMC Directors are nominated Nominations done via RFC8714 to the
+   IETF IPMC shall also be eligible to accept appointment as IETF
+   Trustees until the Trust is dissolved.
 
 2.5.  Update to URLs in RFC5378
 
