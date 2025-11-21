@@ -170,12 +170,6 @@ Table of Contents
 
 4.  Conventions and Definitions
 
-   The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT",
-   "SHOULD", "SHOULD NOT", "RECOMMENDED", "NOT RECOMMENDED", "MAY", and
-   "OPTIONAL" in this document are to be interpreted as described in
-   BCP 14 [RFC2119] [RFC8174] when, and only when, they appear in all
-   capitals, as shown here.
-
 5.  Security Considerations
 
    This document has no security considerations.
@@ -186,11 +180,6 @@ Table of Contents
 
 7.  Normative References
 
-   [RFC2119]  Bradner, S., "Key words for use in RFCs to Indicate
-              Requirement Levels", BCP 14, RFC 2119,
-              DOI 10.17487/RFC2119, March 1997,
-              <https://www.rfc-editor.org/rfc/rfc2119>.
-
    [RFC4748]  Bradner, S., Ed., "RFC 3978 Update to Recognize the IETF
               Trust", RFC 4748, DOI 10.17487/RFC4748, October 2006,
               <https://www.rfc-editor.org/rfc/rfc4748>.
@@ -199,10 +188,6 @@ Table of Contents
               Contributors Provide to the IETF Trust", BCP 78, RFC 5378,
               DOI 10.17487/RFC5378, November 2008,
               <https://www.rfc-editor.org/rfc/rfc5378>.
-
-   [RFC8174]  Leiba, B., "Ambiguity of Uppercase vs Lowercase in RFC
-              2119 Key Words", BCP 14, RFC 8174, DOI 10.17487/RFC8174,
-              May 2017, <https://www.rfc-editor.org/rfc/rfc8174>.
 
    [RFC8714]  Arkko, J. and T. Hardie, "Update to the Process for
               Selection of Trustees for the IETF Trust", BCP 101,
