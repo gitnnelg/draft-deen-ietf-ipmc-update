@@ -164,7 +164,7 @@ Table of Contents
 
    The IETF IPMC bylaws obligate the IETF IPMC to manage IETF assets for
    the benefit of the IETF.  Therefore, the IETF IPMC looks to comply
-   with IETF BCPs, as far as legally possible. to guide its directors in
+   with IETF BCPs, as far as legally possible to guide its directors in
    carrying out that obligation.
 
 4.  Security Considerations
