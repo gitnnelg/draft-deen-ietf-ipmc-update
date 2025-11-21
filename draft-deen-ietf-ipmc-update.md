@@ -95,7 +95,7 @@ Additionally, the IPMC has established a new web site for the [IETF IPMC](https:
 
 # IETF IPMC recognition of IETF BCPs
 
-The IETF IPMC bylaws obligate the IETF IPMC to manage IETF assets for the benefit of the IETF. Therefore, the IETF IPMC looks to comply with IETF BCPs, as far as legally possible. to guide its directors in carrying out that obligation.
+The IETF IPMC bylaws obligate the IETF IPMC to manage IETF assets for the benefit of the IETF. Therefore, the IETF IPMC looks to comply with IETF BCPs, as far as legally possible to guide its directors in carrying out that obligation.
 
 # Security Considerations
 
