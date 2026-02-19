@@ -74,7 +74,7 @@ The IETF IPMC has assumed all rights, responsibilities, and obligations previous
 
 # Websites and URLs
 
-The IETF publishes information on Intellectual Property Rigths at [https://ietf.org/ipr](https://ietf.org/ipr) and more general information at [ietf.org/process/ipr](https://ietf.org/process/ipr).
+The IETF publishes information on intellectual property rights (IPR) at [IETF IPR](https://ietf.org/ipr) (https://ietf.org/ipr) and more general information at [ietf IPR process](https://ietf.org/process/ipr) (https://ietf.org/process/ipr) which deal with IETF IPR in general and includes patents.   Neither the IETF Trust, nor the IETF IPMC have any involvement with patents and all patent issues continue to be exclusively through the IETF at the mentioned web pages.
 
 The IETF Trust, historically has published information related to licensing, assets, finances and notices of actions and changes on it's web site [https://trustee.ietf.org](https://trustees.ietf.org).  This web site shall be maintained in perpetuity as URLs to it appear in published documents and the Trust Legal Provisions (TLP) version 1.0-5.0 that were active at the time of an I-D submission and the date of a RFC publication will continue to apply to those works even after subsequent transfer of those IPR assets to the IETF IPMC.   This will ensure that the existing URLs in the copyright boilerplate and other sections of I-Ds and RFCs continue to work correctly for users of those documents.
 
@@ -100,19 +100,19 @@ The rights held by the IETF Trust have transferred to the IETF IPMC, as the succ
 
 ## RFC Streams
 
-{{!RFC8729}} defines a series of RFC Streams - IETF, IAB, IRTF and Independent Stream and {{!RFC9920}} adds the Editorial Stream that are the different distinct publication streams under the RFC Series.    Mentions of the IETF Trust and IP Rigths management in each of these RFCs is updated to recognize the IETF IPMC as the successor and replacement to the IETF Trust and subsequently as the party responsible for providing the role of IP Rights holder and manage for those streams.
+{{!RFC8729}} defines a series of RFC Streams - IETF, IAB, IRTF and Independent Stream and {{!RFC9920}} adds the Editorial Stream that are the different distinct publication streams under the RFC Series.    Mentions of the IETF Trust and intellectal property rights management in RFC8729, RFC9920 and their related RFCs is updated to recognize the IETF IPMC as the successor and replacement to the IETF Trust as the party responsible for providing the role of copyright holder and manager for those RFC Streams.
 
-Additionally, as described the IETF Trust TLP 5.0 section 8, the IETF IPMC is assuming the management of the IP Rights for the RFC Series streams.  In addition, to the RFC streams mentioned in TLP 5.0, the IETF IPMC also assumes this role for the Editorial RFC Stream which was created after TLP 5.0 was published.  Addition detail on IPR managed by the IPMC for RFC Series Streams can be found in the IETF IPMC TLP version 6.0 publications.
+Additionally, as described the IETF Trust [TLP 5.0 section 8](https://trustee.ietf.org/documents/trust-legal-provisions/), the IETF IPMC is assuming the management of the IP Rights for the RFC Series streams declared in the TLP 5.0.  Additionally, the IETF IPMC also assumes this role for the Editorial RFC Stream which was created after TLP 5.0 was published.  Addition detail on IPR managed by the IPMC for RFC Series Streams can be found in the IETF IPMC TLP version 6.0 publications.
 
 ##  IETF Trustees and IPMC Directors
 
-### Slection and Nomination
+### Selection and Nomination
 
-{{!RFC8714}} specifies the process by which IETF Trustees are selected for the IETF Trust, this shall continue until the IETF Trust is disolved.  The process defined in {{!RFC8714}} shall be the process by which IETF IPMC Directors are nominated.  While both the IETF Trust and the IETF IPMC coexist, the persons nominated as IETF IPMC Directors shall also be eligible to be IETF Trustees.
+{{!RFC8714}} specifies the process by which IETF Trustees are selected for the IETF Trust, this shall continue until the IETF Trust is dissolved.  The process defined in {{!RFC8714}} shall be the process by which IETF IPMC Directors are nominated.  While both the IETF Trust and the IETF IPMC coexist, the persons nominated as IETF IPMC Directors shall also be eligible to be IETF Trustees.
 
 The initial directors of the IPMC were the IETF Trustees at the time of the corporations creation. Subsequent IPMC director selection is done in keeping with Delaware law, under which corporations such as the IETF IPMC which has neither stock holders nor members employs a self-perpetuating board where the sitting board elects its directors.  The process followed by the IETF IPMC is defined in its bylaws section 3.3(a),3.3(b) and 3.3(c) and for the purpose of updating RFC8714 to recognize the IETF IPMC, it is understood that the selections of individuals described in RFC8714 shall be mean to select the nominees from each nominating party and communicated to the IETF IPMC board for subsequent election following the IPMC bylaws section 3.3(b) and that nominating parties of candidates for election by the sitting IETF IPMC directors shall be those defined in RFC8714, namely the IETF NOMCOM, the IESG and the ISOC Board of Trustee.
 
-It is worth noting, under the IPMC bylaws section 3.6, the IETF IPMC board is restricted from modifying the persons eligible to become directors or the rights of the nominating entites to nomimate directors requries a two-thirds vote by all then-serving directors, including the affirmative vote of any representative of a nominating organization that would be negatively impacted by such change.    The practical effect of this bylaw rule is that none of the nominating parties, IETF NOMCOM, IESG or ISOC Board of Trustees, can be disenfranchised of their right to be represented without their own representative voting in favor of the change.
+Under the IPMC bylaws section 3.6, the IETF IPMC board is restricted from modifying the persons eligible to become directors or the rights of the nominating organizations to nominate directors requires a two-thirds vote by all then-serving directors, including the affirmative vote of any representative of a nominating organization that would be negatively impacted by such change.    The practical effect of this bylaw rule is that none of the nominating parties, namely the IETF NomCom, IESG or ISOC Board of Trustees, can be disenfranchised of their right to be represented without their own representative voting in favor of the change.
 
 ### IPMC Director Recall
 
@@ -127,7 +127,7 @@ Additionally, the IPMC has established a new web site for the [IETF IPMC](https:
 
 # Legal Compliance and Advice from the IETF
 
-The IETF IPMC is Delaware not-for-corportation and IRS designated 501(c)(3) public charity. Recognizing that the IETF IPMC and its director's first duty is compliance with laws and regulations, it is understood that at no point shall the advice and guidance from the IETF to the IETF IPMC, including that continained in this document and guidance such as found in {{!RFC8721}} shall be intended to ask for or require deviation from applicable legal requirements by the IPMC Directors.
+The IETF IPMC is Delaware not-for-corporation and IRS designated 501(c)(3) public charity. Recognizing that the IETF IPMC and its director's first duty is compliance with laws and regulations, it is understood that at no point shall the advice and guidance from the IETF to the IETF IPMC, including that continained in this document and guidance such as found in {{!RFC8721}} shall be intended to ask for or require deviation from applicable legal requirements by the IPMC Directors.
 
 # IETF IPMC recognition of IETF BCPs
 
