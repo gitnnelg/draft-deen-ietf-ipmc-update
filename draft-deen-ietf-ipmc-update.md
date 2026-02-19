@@ -41,8 +41,10 @@ author:
 normative:
    RFC4748:
    RFC5378:
-   RFC9280:
    RFC8714:
+   RFC8729:
+   RFC9730:
+   RFC9280:
 
 informative:
 
