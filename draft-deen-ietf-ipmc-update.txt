@@ -5,8 +5,8 @@
 gen                                                              G. Deen
 Internet-Draft                                      Comcast-NBCUniversal
 Intended status: Informational                                 K. Berdan
-Expires: 25 May 2026                    Internet Security Research Group
-                                                        21 November 2025
+Expires: 23 August 2026                 Internet Security Research Group
+                                                        19 February 2026
 
 
      Update to Recognize the IETF IPMC as the IETF Trust Successor
@@ -53,11 +53,11 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 25 May 2026.
+   This Internet-Draft will expire on 23 August 2026.
 
 Copyright Notice
 
-   Copyright (c) 2025 IETF Trust and the persons identified as the
+   Copyright (c) 2026 IETF Trust and the persons identified as the
    document authors.  All rights reserved.
 
    This document is subject to BCP 78 and the IETF Trust's Legal
@@ -74,15 +74,22 @@ Table of Contents
    1.  Introduction
    2.  Updates
      2.1.  References to the IETF Trust in IETF RFCs and BCPs
-     2.2.  Use of IETF Trust and IETF IPMC in other IETF IPR Framework
+   3.  Websites and URLs
+     3.1.  Use of IETF Trust and IETF IPMC in other IETF IPR Framework
            Documents
-     2.3.  Intellectual Property Rights Held by IETF Trust
-     2.4.  IETF Trustees and IPMC Directors Appointment
-     2.5.  Update to URLs in RFC5378
-   3.  IETF IPMC recognition of IETF BCPs
-   4.  Security Considerations
-   5.  IANA Considerations
-   6.  Normative References
+     3.2.  Advice to the IPMC Directors on the IETF IPMC on Rights to
+           be Granted in IETF Documents
+     3.3.  Intellectual Property Rights Held by IETF Trust
+     3.4.  RFC Streams
+     3.5.  IETF Trustees and IPMC Directors
+       3.5.1.  Slection and Nomination
+       3.5.2.  IPMC Director Recall
+     3.6.  Update to URLs in RFC5378
+   4.  Legal Compliance and Advice from the IETF
+   5.  IETF IPMC recognition of IETF BCPs
+   6.  Security Considerations
+   7.  IANA Considerations
+   8.  Normative References
    Appendix A.  Acknowledgments
    Authors' Addresses
 
@@ -115,7 +122,32 @@ Table of Contents
    assumed all rights, responsibilities, and obligations previously held
    by or attributed to the IETF Trust in such documents.
 
-2.2.  Use of IETF Trust and IETF IPMC in other IETF IPR Framework
+3.  Websites and URLs
+
+   The IETF publishes information on Intellectual Property Rigths at
+   https://ietf.org/ipr (https://ietf.org/ipr) and more general
+   information at ietf.org/process/ipr (https://ietf.org/process/ipr).
+
+   The IETF Trust, historically has published information related to
+   licensing, assets, finances and notices of actions and changes on
+   it's web site https://trustee.ietf.org (https://trustees.ietf.org).
+   This web site shall be maintained in perpetuity as URLs to it appear
+   in published documents and the Trust Legal Provisions (TLP) version
+   1.0-5.0 that were active at the time of an I-D submission and the
+   date of a RFC publication will continue to apply to those works even
+   after subsequent transfer of those IPR assets to the IETF IPMC.  This
+   will ensure that the existing URLs in the copyright boilerplate and
+   other sections of I-Ds and RFCs continue to work correctly for users
+   of those documents.
+
+   The IETF IPMC, has established https://www.ietf-ipm.org
+   (https://www.ietf-ipm.org) as its official corporate website which it
+   will use to publish governance and operational information including
+   bylaws and financial statements, along with the updated Technical
+   Legal Provisions (TLP 6.0) which provide licensing terms for I-Ds and
+   RFCs whose copyrights are held by the IETF IPMC.
+
+3.1.  Use of IETF Trust and IETF IPMC in other IETF IPR Framework
       Documents
 
    The intellectual property rights framework for IETF contributions is
@@ -136,25 +168,90 @@ Table of Contents
    Note that no retroactive changes of copyright notices in prior IETF
    documents are to be made.
 
-2.3.  Intellectual Property Rights Held by IETF Trust
+3.2.  Advice to the IPMC Directors on the IETF IPMC on Rights to be
+      Granted in IETF Documents
+
+   [RFC8721] is advice to the IETF Trustees of the IETF Trust on rights
+   to be granted in IETF documents.  This advice is updated to be to the
+   IETF IPMC and its directors.
+
+3.3.  Intellectual Property Rights Held by IETF Trust
 
    The rights held by the IETF Trust have transferred to the IETF IPMC,
    as the successor the IETF Trust.  Inquiries regarding licenses and
    other IPR topics should now be made to the IETF IPMC.
 
-2.4.  IETF Trustees and IPMC Directors Appointment
+3.4.  RFC Streams
 
-   The process defined in [RFC8714] shall define the process by which
-   IETF IPMC Directors are nominated Nominations done via RFC8714 to the
-   IETF IPMC shall also be eligible to accept appointment as IETF
-   Trustees until the Trust is dissolved.
+   [RFC8729] defines a series of RFC Streams - IETF, IAB, IRTF and
+   Independent Stream and [RFC9920] adds the Editorial Stream that are
+   the different distinct publication streams under the RFC Series.
+   Mentions of the IETF Trust and IP Rigths management in each of these
+   RFCs is updated to recognize the IETF IPMC as the successor and
+   replacement to the IETF Trust and subsequently as the party
+   responsible for providing the role of IP Rights holder and manage for
+   those streams.
 
-2.5.  Update to URLs in RFC5378
+   Additionally, as described the IETF Trust TLP 5.0 section 8, the IETF
+   IPMC is assuming the management of the IP Rights for the RFC Series
+   streams.  In addition, to the RFC streams mentioned in TLP 5.0, the
+   IETF IPMC also assumes this role for the Editorial RFC Stream which
+   was created after TLP 5.0 was published.  Addition detail on IPR
+   managed by the IPMC for RFC Series Streams can be found in the IETF
+   IPMC TLP version 6.0 publications.
+
+3.5.  IETF Trustees and IPMC Directors
+
+3.5.1.  Slection and Nomination
+
+   [RFC8714] specifies the process by which IETF Trustees are selected
+   for the IETF Trust, this shall continue until the IETF Trust is
+   disolved.  The process defined in [RFC8714] shall be the process by
+   which IETF IPMC Directors are nominated.  While both the IETF Trust
+   and the IETF IPMC coexist, the persons nominated as IETF IPMC
+   Directors shall also be eligible to be IETF Trustees.
+
+   The initial directors of the IPMC were the IETF Trustees at the time
+   of the corporations creation.  Subsequent IPMC director selection is
+   done in keeping with Delaware law, under which corporations such as
+   the IETF IPMC which has neither stock holders nor members employs a
+   self-perpetuating board where the sitting board elects its directors.
+   The process followed by the IETF IPMC is defined in its bylaws
+   section 3.3(a),3.3(b) and 3.3(c) and for the purpose of updating
+   RFC8714 to recognize the IETF IPMC, it is understood that the
+   selections of individuals described in RFC8714 shall be mean to
+   select the nominees from each nominating party and communicated to
+   the IETF IPMC board for subsequent election following the IPMC bylaws
+   section 3.3(b) and that nominating parties of candidates for election
+   by the sitting IETF IPMC directors shall be those defined in RFC8714,
+   namely the IETF NOMCOM, the IESG and the ISOC Board of Trustee.
+
+   It is worth noting, under the IPMC bylaws section 3.6, the IETF IPMC
+   board is restricted from modifying the persons eligible to become
+   directors or the rights of the nominating entites to nomimate
+   directors requries a two-thirds vote by all then-serving directors,
+   including the affirmative vote of any representative of a nominating
+   organization that would be negatively impacted by such change.  The
+   practical effect of this bylaw rule is that none of the nominating
+   parties, IETF NOMCOM, IESG or ISOC Board of Trustees, can be
+   disenfranchised of their right to be represented without their own
+   representative voting in favor of the change.
+
+3.5.2.  IPMC Director Recall
+
+   The RFC8714 describes the processes for recall of Trustees appointed
+   by the IETF NomCom, IESG and ISOC Board of Trustees.  These processes
+   are understood to feed into the IETF IPMC bylaws section 3.3(c) where
+   each nominating party can replace its representative on the IPMC
+   Board of Directors.
+
+3.6.  Update to URLs in RFC5378
 
    The existing URLs in RFC5378 which reference the IETF Trust
    (https://trustee.ietf.org/) web site (https://trustee.ietf.org/) will
    continue to be maintained as they appear in published documents and
-   will be maintained in perpetuity.
+   will be maintained in perpetuity.  There is need to update or modify
+   existing references in I-Ds or RFCs.
 
    Additionally, the IPMC has established a new web site for the IETF
    IPMC (https://www.ietf-ipm.org/) (https://www.ietf-ipm.org/) which
@@ -162,22 +259,33 @@ Table of Contents
    updated Trust Legal Provisions (which have been renamed the Technical
    Legal Provisions) version 6.0 and beyond.
 
-3.  IETF IPMC recognition of IETF BCPs
+4.  Legal Compliance and Advice from the IETF
+
+   The IETF IPMC is Delaware not-for-corportation and IRS designated
+   501(c)(3) public charity.  Recognizing that the IETF IPMC and its
+   director's first duty is compliance with laws and regulations, it is
+   understood that at no point shall the advice and guidance from the
+   IETF to the IETF IPMC, including that continained in this document
+   and guidance such as found in [RFC8721] shall be intended to ask for
+   or require deviation from applicable legal requirements by the IPMC
+   Directors.
+
+5.  IETF IPMC recognition of IETF BCPs
 
    The IETF IPMC bylaws obligate the IETF IPMC to manage IETF assets for
    the benefit of the IETF.  Therefore, the IETF IPMC looks to comply
    with IETF BCPs, as far as legally possible to guide its directors in
    carrying out that obligation.
 
-4.  Security Considerations
+6.  Security Considerations
 
    This document has no security considerations.
 
-5.  IANA Considerations
+7.  IANA Considerations
 
    This document has no IANA actions.
 
-6.  Normative References
+8.  Normative References
 
    [RFC4748]  Bradner, S., Ed., "RFC 3978 Update to Recognize the IETF
               Trust", RFC 4748, DOI 10.17487/RFC4748, October 2006,
@@ -193,9 +301,22 @@ Table of Contents
               RFC 8714, DOI 10.17487/RFC8714, February 2020,
               <https://www.rfc-editor.org/rfc/rfc8714>.
 
+   [RFC8721]  Halpern, J., Ed., "Advice to the Trustees of the IETF
+              Trust on Rights to Be Granted in IETF Documents",
+              RFC 8721, DOI 10.17487/RFC8721, February 2020,
+              <https://www.rfc-editor.org/rfc/rfc8721>.
+
+   [RFC8729]  Housley, R., Ed. and L. Daigle, Ed., "The RFC Series and
+              RFC Editor", RFC 8729, DOI 10.17487/RFC8729, February
+              2020, <https://www.rfc-editor.org/rfc/rfc8729>.
+
    [RFC9280]  Saint-Andre, P., Ed., "RFC Editor Model (Version 3)",
               RFC 9280, DOI 10.17487/RFC9280, June 2022,
               <https://www.rfc-editor.org/rfc/rfc9280>.
+
+   [RFC9920]  Hoffman, P. and A. Rossi, "RFC Editor Model (Version 3)",
+              RFC 9920, DOI 10.17487/RFC9920, February 2026,
+              <https://www.rfc-editor.org/rfc/rfc9920>.
 
 Appendix A.  Acknowledgments
 
