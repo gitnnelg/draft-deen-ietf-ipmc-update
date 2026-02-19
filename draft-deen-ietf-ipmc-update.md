@@ -79,7 +79,7 @@ The IETF IPMC has assumed all rights, responsibilities, and obligations previous
 
 ### IETF IPR
 
-The IETF publishes information on intellectual property rights (IPR) at [IETF IPR](https://ietf.org/ipr) and more general information at [ietf IPR process](https://ietf.org/process/ipr) dealing with IETF IPR topiucs in general and including patents.   
+The IETF publishes information on intellectual property rights (IPR) at [IETF IPR](https://ietf.org/ipr) and more general information at [ietf IPR process](https://ietf.org/process/ipr) dealing with IETF IPR topiucs in general and including patents.
 
 The IETF Trust and the IETF IPMC do not handle patents and all IETF related patent considerations continue to be handled direcetly through the IETF at the cited web pages.
 
