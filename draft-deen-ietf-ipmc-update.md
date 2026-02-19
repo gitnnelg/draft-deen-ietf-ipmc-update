@@ -69,7 +69,16 @@ This document updates RFC 5378, RFC8714 and other IETF documents to recognize th
 
 ## References to the IETF Trust in IETF RFCs and BCPs
 
-All references to “IETF Trust” in any IETF document, including RFCs, BCPs, Internet-Drafts, and other IETF publications, shall be read and interpreted as referring to the IETF Intellectual Property Management Corporation (IETF IPMC) as the successor entity. The IETF IPMC has assumed all rights, responsibilities, and obligations previously held by or attributed to the IETF Trust in such documents.
+All references to “IETF Trust” in any IETF document, including RFCs, BCPs, Internet-Drafts, and other IETF publications, shall be read and interpreted as referring to the IETF Intellectual Property Management Corporation (IETF IPMC) as the successor entity.
+The IETF IPMC has assumed all rights, responsibilities, and obligations previously held by or attributed to the IETF Trust in such documents.
+
+# Websites and URLs
+
+The IETF publishes information on Intellectual Property Rigths at [https://ietf.org/ipr](https://ietf.org/ipr) and more general information at [ietf.org/process/ipr](https://ietf.org/process/ipr).
+
+The IETF Trust, historically has published information related to licensing, assets, finances and notices of actions and changes on it's web site [https://trustee.ietf.org](https://trustees.ietf.org).  This web site shall be maintained in perpetuity as URLs to it appear in published documents and the Trust Legal Provisions (TLP) version 1.0-5.0 that were active at the time of an I-D submission and the date of a RFC publication will continue to apply to those works even after subsequent transfer of those IPR assets to the IETF IPMC.   This will ensure that the existing URLs in the copyright boilerplate and other sections of I-Ds and RFCs continue to work correctly for users of those documents.
+
+The IETF IPMC, has established [https://www.ietf-ipm.org](https://www.ietf-ipm.org) as its official corporate website which it will use to publish governance and operational information including bylaws and financial statements, along with the updated Technical Legal Provisions (TLP 6.0) which provide licensing terms for I-Ds and RFCs whose copyrights are held by the IETF IPMC.
 
 ## Use of IETF Trust and IETF IPMC in other IETF IPR Framework Documents
 
@@ -89,9 +98,9 @@ Note that no retroactive changes of copyright notices in prior IETF documents ar
 
 The rights held by the IETF Trust have transferred to the IETF IPMC, as the successor the IETF Trust.  Inquiries regarding licenses and other IPR topics should now be made to the IETF IPMC.
 
-## Streams
+## RFC Streams
 
-{{!RFC8729}} defines a series of RFC Streams - IETF, IAB, IRTF and Independent Stream and {{!RFC9920}} adds the Editorial Stream that are the different distinct publication streams under the RFC Series.    Mentions of the IETF Trust and IP Rigths management in each of these RFCs is updated to recognize the IETF IPMC as the successor and replacement to the IETF Trust and subsequently as the party responsible for providing the role of IP Rights holder and manage for those streams.   
+{{!RFC8729}} defines a series of RFC Streams - IETF, IAB, IRTF and Independent Stream and {{!RFC9920}} adds the Editorial Stream that are the different distinct publication streams under the RFC Series.    Mentions of the IETF Trust and IP Rigths management in each of these RFCs is updated to recognize the IETF IPMC as the successor and replacement to the IETF Trust and subsequently as the party responsible for providing the role of IP Rights holder and manage for those streams.
 
 Additionally, as described the IETF Trust TLP 5.0 section 8, the IETF IPMC is assuming the management of the IP Rights for the RFC Series streams.  In addition, to the RFC streams mentioned in TLP 5.0, the IETF IPMC also assumes this role for the Editorial RFC Stream which was created after TLP 5.0 was published.  Addition detail on IPR managed by the IPMC for RFC Series Streams can be found in the IETF IPMC TLP version 6.0 publications.
 
@@ -115,13 +124,6 @@ The existing URLs in RFC5378 which reference the [IETF Trust](https://trustee.ie
 
 Additionally, the IPMC has established a new web site for the [IETF IPMC](https://www.ietf-ipm.org/) (https://www.ietf-ipm.org/) which will henceforth contain IPMC- specific materials, including the updated Trust Legal Provisions (which have been renamed the Technical Legal Provisions) version 6.0 and beyond.
 
-# Websites and URLs
-
-The IETF publishes information on Intellectual Property Rigths at [https://ietf.org/ipr](https://ietf.org/ipr) and more general information at [ietf.org/process/ipr](https://ietf.org/process/ipr).
-
-The IETF Trust, historically has published information related to licensing, assets, finances and notices of actions and changes on it's web site [https://trustee.ietf.org](https://trustees.ietf.org).  This web site shall be maintained in perpetuity as URLs to it appear in published documents and the Trust Legal Provisions (TLP) version 1.0-5.0 that were active at the time of an I-D submission and the date of a RFC publication will continue to apply to those works even after subsequent transfer of those IPR assets to the IETF IPMC.   This will ensure that the existing URLs in the copyright boilerplate and other sections of I-Ds and RFCs continue to work correctly for users of those documents. 
-
-The IETF IPMC, has established [https://www.ietf-ipm.org](https://www.ietf-ipm.org) as its official corporate website which it will use to publish governance and operational information including bylaws and financial statements, along with the updated Technical Legal Provisions (TLP 6.0) which provide licensing terms for I-Ds and RFCs whose copyrights are held by the IETF IPMC.
 
 # Legal Compliance and Advice from the IETF
 
