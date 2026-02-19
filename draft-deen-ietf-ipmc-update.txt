@@ -319,6 +319,11 @@ Table of Contents
               RFC 9280, DOI 10.17487/RFC9280, June 2022,
               <https://www.rfc-editor.org/rfc/rfc9280>.
 
+   [RFC9730]  Zheng, H., Lin, Y., Zhao, Y., Xu, Y., and D. Beller,
+              "Interworking of GMPLS Control and Centralized Controller
+              Systems", RFC 9730, DOI 10.17487/RFC9730, March 2025,
+              <https://www.rfc-editor.org/rfc/rfc9730>.
+
    [RFC9920]  Hoffman, P. and A. Rossi, "RFC Editor Model (Version 3)",
               RFC 9920, DOI 10.17487/RFC9920, February 2026,
               <https://www.rfc-editor.org/rfc/rfc9920>.
