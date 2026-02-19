@@ -117,17 +117,25 @@ Additionally, as described the IETF Trust [TLP 5.0 section 8](https://trustee.ie
 
 ##  IETF Trustees and IPMC Directors
 
-### Selection and Nomination
+IETF Trustee selection as {{!RFC8714}} specifies shall continue to apply for Trustee selection until the IETF Trust is formally dissolved.  
 
-{{!RFC8714}} specifies the process by which IETF Trustees are selected for the IETF Trust, this shall continue until the IETF Trust is dissolved.  The process defined in {{!RFC8714}} shall be the process by which IETF IPMC Directors are nominated.  While both the IETF Trust and the IETF IPMC coexist, the persons nominated as IETF IPMC Directors shall also be eligible to be IETF Trustees.
+This process shall also be the process by which IETF IPMC Directors are nominated by the appointing organizations in RFC8714.  While both the IETF Trust and the IETF IPMC coexist, the persons nominated as IETF IPMC Directors shall also be eligible to be IETF Trustees.
 
-The initial directors of the IPMC were the IETF Trustees at the time of the corporations creation. Subsequent IPMC director selection is done in keeping with Delaware law, under which corporations such as the IETF IPMC which has neither stock holders nor members employs a self-perpetuating board where the sitting board elects its directors.  The process followed by the IETF IPMC is defined in its bylaws section 3.3(a),3.3(b) and 3.3(c) and for the purpose of updating RFC8714 to recognize the IETF IPMC, it is understood that the selections of individuals described in RFC8714 shall be mean to select the nominees from each nominating party and communicated to the IETF IPMC board for subsequent election following the IPMC bylaws section 3.3(b) and that nominating parties of candidates for election by the sitting IETF IPMC directors shall be those defined in RFC8714, namely the IETF NOMCOM, the IESG and the ISOC Board of Trustee.
+### IETF Trustee Selection vs IPMC Director Nomination
 
-Under the IPMC bylaws section 3.6, the IETF IPMC board is restricted from modifying the persons eligible to become directors or the rights of the nominating organizations to nominate directors requires a two-thirds vote by all then-serving directors, including the affirmative vote of any representative of a nominating organization that would be negatively impacted by such change.    The practical effect of this bylaw rule is that none of the nominating parties, namely the IETF NomCom, IESG or ISOC Board of Trustees, can be disenfranchised of their right to be represented without their own representative voting in favor of the change.
+While RFC8714 describes selection of IETF Trustees whereby they are directly selected to be IETF Trustees, the process for IETF IPMC directors is slightly different, though it produces the same outcome of having directors selection be done based on the RFC8714 selecting organizations.  The terms of IPMC directors also follow the same durations as set out in RFC8714 for IETF Trustees.
+
+The IETF IPMC process for board of director selection is defined in the IPMC bylaws section 3.3. In keeping with Delaware state law for corporations which do not have either stock holders or members, the IPMC employs a self-perpetuating baord where the sittig board elects its directors, where new directors are elected by the current sitting board from candidates nominated by nominating organizations - IETF NomCom, IESF, and Internet Society (ISOC) Board of Trustees. 
+
+* The initial directors of the IPMC being the IETF Trustees at the time of the IETF IPMC corporation's creation.  This was done following IPMC bylaws section 3.3(a).
+
+* Subsequently, when the term of an IPMC director expires, selection follows the IETF IPMC bylaws section 3.3(b) process with the RFC8714 process understood to mean that the nominating organization of that director shall pick the candidate chosen by that organization which is then submitted to the IETF IPMC board for subsequent election by the board.
+
+Note, under the IPMC bylaws section 3.6, the IETF IPMC board is restricted from modifying the persons eligible to become directors or the rights of the nominating organizations to nominate directors requires a two-thirds vote by all then-serving directors, including the affirmative vote of any representative of a nominating organization that would be negatively impacted by such change. The practical effect of this bylaw rule is that none of the nominating organizations can be disenfranchised of their right to be represented without their own organizational representative voting in favor of the change.
 
 ### IPMC Director Recall
 
-The RFC8714 describes the processes for recall of Trustees appointed by the IETF NomCom, IESG and ISOC Board of Trustees.  These processes are understood to feed into the IETF IPMC bylaws section 3.3(c) where each nominating party can replace its representative on the IPMC Board of Directors.
+The RFC8714 describes the processes for recall of Trustees appointed by the IETF NomCom, IESG and ISOC Board of Trustees.  The RFC8714 recall process is understood to into the IETF IPMC bylaws section 3.3(c) process whereby each nominating organization can replace its representative on the IPMC Board of Directors.
 
 ## Update to URLs in RFC5378
 
