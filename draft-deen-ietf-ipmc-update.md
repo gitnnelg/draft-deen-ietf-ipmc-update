@@ -124,22 +124,23 @@ The process for selecting IETF IPMC Directors is structurally different but func
 
 ### Corporate Governance Context
 
-The IETF IPMC is a Delaware nonstock corporation with no members. Under Delaware General Corporation Law (DGCL), such corporations typically operate as self‑perpetuating boards, meaning that directors are elected by the sitting board rather than by members or shareholders. This governance model is expressly reflected in the IPMC bylaws.
+The IETF IPMC is a Delaware nonstock corporation with no members. Because Delaware General Corporation Law (DGCL) does not provide for the appointment of directors by third-parties, such corporations typically operate with self‑perpetuating boards, meaning that directors are elected by the sitting board rather than by members or shareholders or third-parties. This governance model is expressly reflected in the IPMC bylaws.
 
 ### IPMC Director Selection Mechanism
 
 The process for IPMC board composition is defined in IPMC Bylaws § 3.3, and operates as follows:
 
 * Initial Board Formation (§ 3.3(a))
+
 The initial directors of the IPMC were the IETF Trustees serving at the time of the IPMC’s incorporation. This ensured continuity of fiduciary responsibility and alignment between the Trust and the newly formed IPMC.
 
 * Subsequent Director Selection (§ 3.3(b))
 
-Upon expiration of an IPMC director’s term, the sitting IPMC Board elects a successor director. However, the pool of eligible candidates is constrained:
+Upon expiration of an IPMC director’s term or their resignation, the sitting IPMC Board elects a successor director. However, the pool of eligible candidates is constrained:
 
 * Each director seat is associated with a specific nominating organization (IETF NomCom, IESG, or ISOC Board of Trustees), consistent with RFC 8714.
-* When a term expires, the relevant nominating organization selects the individual to be nominated.
-* That individual is then submitted to the IPMC Board, which formally elects the nominee as a director.
+* When a term expires or a director resigns, the relevant nominating organization selects the individual to be nominated.
+* That individual is then submitted to the IPMC Board, which is then required under the bylaws to formally elect the nominee as a director.
 
 In practice, this means that while the legal act of election is performed by the IPMC Board (as required by Delaware law), the substantive selection authority rests with the RFC 8714-designated nominating organizations.
 
@@ -152,19 +153,18 @@ The rights of the nominating organizations are protected by IPMC Bylaws § 3.6
 
 unless such changes are approved by:
 
-. A two‑thirds vote of all then‑serving directors, and
-. The affirmative vote of any director representing a nominating organization that would be adversely affected by the change.
+* A two‑thirds vote of all then‑serving directors, and the affirmative vote of any director representing a nominating organization that would be adversely affected by the change.
 
-The practical effect of this safeguard is that no nominating organization can be disenfranchised or have its representation diluted without its own consent, expressed through its representative director’s affirmative vote. This creates a strong governance lock‑in consistent with both Delaware law and the community‑driven structure envisioned by RFC 8714.
+The practical effect of this safeguard is that no nominating organization can be disenfranchised or have its representation diluted without its own consent, expressed through its representative director’s affirmative vote. This creates a strong governance lock‑in consistent with both Delaware law and the community‑driven structure envisioned by RFC 8714 and is in fact a more stringent control than exists under the Trust Agreement, where the consent of an affected organization is not required.
 
 ### IPMC Director Recall
 
-RFC 8714 also defines recall mechanisms for IETF Trustees appointed by each of the selecting organizations (IETF NomCom, IESG, and ISOC Board of Trustees).
+RFC 8714 also defines recall mechanisms for IETF Trustees appointed by each of the selecting organizations.
 
 Within the IPMC governance framework, these RFC 8714 recall authorities are implemented through IPMC Bylaws § 3.3(c). Under that provision:
 
 * Each nominating organization retains the authority to replace its designated representative on the IPMC Board of Directors.
-* When a nominating organization exercises its recall or replacement authority, the IPMC Board elects the replacement nominee in accordance with the bylaws.
+* When a nominating organization exercises its recall or replacement authority, the IPMC Board is required under the bylaws to elect the replacement nominee.
 
 As with director selection, the Board’s role is ministerial and legally required under Delaware corporate law, while the decision to recall or replace a director remains entirely with the relevant nominating organization, consistent with RFC 8714.
 
