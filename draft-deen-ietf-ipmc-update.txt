@@ -235,14 +235,15 @@ Table of Contents
    Trust as the party responsible for providing the role of copyright
    holder and manager for those RFC Streams.
 
-   Additionally, as described the IETF Trust TLP 5.0 section 8
+   As described the IETF Trust TLP 5.0 section 8
    (https://trustee.ietf.org/documents/trust-legal-provisions/), the
-   IETF IPMC is assuming the management of the IP Rights for the RFC
+   IETF IPMC is assuming the management of the IP rights for the RFC
    Series streams declared in the TLP 5.0.  Additionally, the IETF IPMC
    also assumes this role for the Editorial RFC Stream which was created
-   after TLP 5.0 was published.  Addition detail on IPR managed by the
-   IPMC for RFC Series Streams can be found in the IETF IPMC TLP version
-   6.0 publications.
+   after TLP 5.0 was published.
+
+   Additional details on the RFC Series Streams can be found in the IETF
+   IPMC TLP version 6.0.
 
 2.8.  IETF Trustees and IPMC Directors
 
