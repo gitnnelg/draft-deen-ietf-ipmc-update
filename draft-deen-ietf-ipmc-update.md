@@ -105,13 +105,13 @@ All references to the IETF Trust in {{!RFC5378}} and related operational documen
 
 Updated versions of required copyright notices in I-Ds and RFCs reflecting this change can be found in Section 6 of the [IPMC TLP](https://www.ietf-ipm.org/tlp) at https://www.ietf-ipm.org/tlp.
 
-Note that no required retroactive changes of copyright notices in prior IETF documents are to be made.  
+Note that no required retroactive changes of copyright notices in prior IETF documents are to be made.
 
-Note as well, that since IETF IPMC has assumed all assets held by the IETF Trust along with the licensing agreements including TLP versions 1.0 through 5.0, it is acceptable to refer to the IETF IPMC in place of the IETF Trust as the holder of all intellectual property assets previously held by the IETF Trust.
+Note as well, while it is not necssary to update pre-IPMC copyright notices, it is correct and accurate to refer to the IETF IPMC as the holder of all the intellectual property rights and assets previously held by the IETF Trust, since these have all been moved to the IETF IPMC.
 
-## Advice to the IPMC Directors on the IETF IPMC on Rights to be Granted in IETF Documents
+## RFC8721 Advice to the IPMC Directors on the IETF IPMC on Rights to be Granted in IETF Documents
 
-{{!RFC8721}} is advice to the IETF Trustees of the IETF Trust on rights to be granted in IETF documents.   This advice is updated to be to the IETF IPMC and its directors.
+{{!RFC8721}} provides advice to the IETF Trustees of the IETF Trust on rights to be granted in IETF documents.  This advice is updated to be directed at the IETF IPMC Board of Directors.
 
 ## Intellectual Property Rights Held by IETF Trust
 
@@ -175,14 +175,7 @@ Within the IPMC governance framework, these RFC 8714 recall authorities are im
 
 As with director selection, the Board’s role is ministerial and legally required under Delaware corporate law, while the decision to recall or replace a director remains entirely with the relevant nominating organization, consistent with RFC 8714.
 
-
-## Legal Compliance and Advice from the IETF
-
-### RFC8721
-
-*Advice to the Trustees of the IETF Trust on Rights to Be Granted in IETF Documents* {{!RFC8721}} is updated to be directed at the IETF IPMC Board of Directors, with the understanding that at no point is such advice is meant to be given in a manner that is inconsistent with applicable legal or regulatory requirements or with the Directors’ fiduciary duties.
-
-### IETF IPMC recognition of IETF BCPs
+## IETF IPMC recognition of IETF BCPs
 
 The IETF IPMC bylaws obligate the IETF IPMC to manage IETF assets for the benefit of the IETF. Therefore, the IETF IPMC looks to comply with IETF BCPs, as far as legally possible to guide its directors in carrying out that obligation.
 
