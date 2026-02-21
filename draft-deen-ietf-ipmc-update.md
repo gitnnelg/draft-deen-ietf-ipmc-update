@@ -63,33 +63,39 @@ Discussion of this draft is on the ipr-wg@ietf.org mailing list.
 
 The IETF Trust, a Virginia trust, was established in 2005 as the intellectual property rights (IPR) manager for the IETF. The IETF Trust has held and managed IPR, including those granted by authors of IETF Contributions and IETF Documents following the terms of BCP78, currently specified in {{!RFC5378}} and its predecessors.
 
-The IETF Intellectual Property Management Corporation (IPMC) is a Delaware not-for-profit corporation established in 2022 with the intention of being the successor to the IETF Trust, replacing it and assuming all of its roles and responsibilities.
+The IETF Intellectual Property Management Corporation (IPMC), a Delaware not-for-profit corporation was established in December 2022 with the intention of being the successor to the IETF Trust, replacing it and assuming all of its roles and responsibilities. Since its establishment the IETF IPMC has been undertaking the necessary steps to establish itself as a 501c3 non-profit, to prepare for and execute the transfer of all assets held by the IETF Trust, and to update where necessary agreements and IETF documents to complete the task of assuming the role as the replacement of the IETF Trust.
 
-This document updates RFC 5378, RFC8714 and other IETF documents to recognize that the IETF IPMC is now the proper custodian of all IETF-related intellectual property rights and successor in interest to the IETF Trust.
-
+This document updates RFC 5378, RFC8714, RFC8721 and other IETF documents to recognize that the IETF IPMC is now the proper custodian of all IETF-related intellectual property rights and successor in interest to the IETF Trust.
 
 #  Updates
 
 ## References to the IETF Trust in IETF RFCs and BCPs
 
 All references to “IETF Trust” in any IETF document, including RFCs, BCPs, Internet-Drafts, and other IETF publications, shall be read and interpreted as referring to the IETF Intellectual Property Management Corporation (IETF IPMC) as the successor entity.
+
 The IETF IPMC has assumed all rights, responsibilities, and obligations previously held by or attributed to the IETF Trust in such documents.
 
 ## Websites and URLs
 
-### IETF IPR
+### IETF IPR: ietf.org/ipr and ietf.org/process/ipr
 
-The IETF publishes information on intellectual property rights (IPR) at [IETF IPR](https://ietf.org/ipr) and more general information at [ietf IPR process](https://ietf.org/process/ipr) dealing with IETF IPR topiucs in general and including patents.
+The IETF publishes information on intellectual property rights (IPR) at [IETF IPR](https://ietf.org/ipr) and more general information at [ietf IPR process](https://ietf.org/process/ipr) dealing with IETF IPR topics in general and including patents.
 
-The IETF Trust and the IETF IPMC do not handle patents and all IETF related patent considerations continue to be handled direcetly through the IETF at the cited web pages.
+The IETF Trust and the IETF IPMC do not handle patents.  The IETF continues to handle patent considerations and there is no change to this under this update to recognize the IETF IPMC.
 
-### IETF Trust
+### IETF Trust: trustee.ietf.org
 
 The IETF Trust, historically has published information related to licensing, assets, finances and notices of actions and changes on it's web site [https://trustee.ietf.org](https://trustees.ietf.org).  This web site shall be maintained in perpetuity as URLs to it appear in published documents and the Trust Legal Provisions (TLP) version 1.0-5.0 that were active at the time of an I-D submission and the date of a RFC publication will continue to apply to those works even after subsequent transfer of those IPR assets to the IETF IPMC.   The existing URLs in the required copyright boilerplate and other sections of I-Ds and RFCs will continue to work correctly for users of those documents.
 
-### IETF IPMC
+### IETF IPMC: www.ietf-ipmc.org
 
 The IETF IPMC, has established [https://www.ietf-ipm.org](https://www.ietf-ipm.org) as its official corporate website which it will use to publish governance and operational information including bylaws and financial statements, along with the updated Technical Legal Provisions (TLP 6.0) which provide licensing terms for I-Ds and RFCs whose copyrights are held by the IETF IPMC.
+
+## Update to URLs in RFC5378
+
+The existing URLs in RFC5378 which reference the [IETF Trust](https://trustee.ietf.org/) web site (https://trustee.ietf.org/) will continue to be maintained as they appear in published documents and will be maintained in perpetuity.  There is no need to update or modify existing references in I-Ds or RFCs.
+
+Additionally, RFC5378 is hence updated to include the IPMC web site as the location for the IETF IPMC's licensing information for the assets help by the IETF IPMC, including an updates to the IETF Trust Legal Provisions (TLP) 5.0 which have been renamed the IETF IPMC Technical Legal Provisions (TLP) and updated to version 6.0.   
 
 ## Use of IETF Trust and IETF IPMC in other IETF IPR Framework Documents
 
@@ -99,7 +105,9 @@ All references to the IETF Trust in {{!RFC5378}} and related operational documen
 
 Updated versions of required copyright notices in I-Ds and RFCs reflecting this change can be found in Section 6 of the [IPMC TLP](https://www.ietf-ipm.org/tlp) at https://www.ietf-ipm.org/tlp.
 
-Note that no retroactive changes of copyright notices in prior IETF documents are to be made.
+Note that no required retroactive changes of copyright notices in prior IETF documents are to be made.  
+
+Note as well, that since IETF IPMC has assumed all assets held by the IETF Trust along with the licensing agreements including TLP versions 1.0 through 5.0, it is acceptable to refer to the IETF IPMC in place of the IETF Trust as the holder of all intellectual property assets previously held by the IETF Trust.
 
 ## Advice to the IPMC Directors on the IETF IPMC on Rights to be Granted in IETF Documents
 
@@ -111,7 +119,7 @@ The rights held by the IETF Trust have transferred to the IETF IPMC, as the succ
 
 ## RFC Streams
 
-{{!RFC8729}} defines a series of RFC Streams - IETF, IAB, IRTF and Independent Stream and {{!RFC9920}} adds the Editorial Stream that are the different distinct publication streams under the RFC Series.    Mentions of the IETF Trust and intellectal property rights management in RFC8729, RFC9920 and their related RFCs is updated to recognize the IETF IPMC as the successor and replacement to the IETF Trust as the party responsible for providing the role of copyright holder and manager for those RFC Streams.
+{{!RFC8729}} defines a series of RFC Streams - IETF, IAB, IRTF and Independent Stream and {{!RFC9920}} adds the Editorial Stream that are the different distinct publication streams under the RFC Series.    Mentions of the IETF Trust and intellectual property rights management in RFC8729, RFC9920 and their related RFCs is updated to recognize the IETF IPMC as the successor and replacement to the IETF Trust as the party responsible for providing the role of copyright holder and manager for those RFC Streams.
 
 Additionally, as described the IETF Trust [TLP 5.0 section 8](https://trustee.ietf.org/documents/trust-legal-provisions/), the IETF IPMC is assuming the management of the IP Rights for the RFC Series streams declared in the TLP 5.0.  Additionally, the IETF IPMC also assumes this role for the Editorial RFC Stream which was created after TLP 5.0 was published.  Addition detail on IPR managed by the IPMC for RFC Series Streams can be found in the IETF IPMC TLP version 6.0 publications.
 
@@ -120,7 +128,6 @@ Additionally, as described the IETF Trust [TLP 5.0 section 8](https://trustee.ie
 RFC 8714 defines the selection and recall processes for IETF Trustees, under which Trustees are directly selected by the designated selecting organizations (the IETF NomCom, the IESG, and the ISOC Board of Trustees) to serve as Trustees of the IETF Trust.
 
 The process for selecting IETF IPMC Directors is structurally different but functionally equivalent. While IPMC Directors are not appointed directly by the selecting organizations, the outcome is the same: director selection authority is effectively exercised by the same RFC 8714-designated bodies, and director terms track the same durations specified in RFC 8714 for IETF Trustees.
-
 
 ### Corporate Governance Context
 
@@ -168,18 +175,14 @@ Within the IPMC governance framework, these RFC 8714 recall authorities are im
 
 As with director selection, the Board’s role is ministerial and legally required under Delaware corporate law, while the decision to recall or replace a director remains entirely with the relevant nominating organization, consistent with RFC 8714.
 
-## Update to URLs in RFC5378
 
-The existing URLs in RFC5378 which reference the [IETF Trust](https://trustee.ietf.org/) web site (https://trustee.ietf.org/) will continue to be maintained as they appear in published documents and will be maintained in perpetuity.  There is need to update or modify existing references in I-Ds or RFCs.
+## Legal Compliance and Advice from the IETF
 
-Additionally, the IPMC has established a new web site for the [IETF IPMC](https://www.ietf-ipm.org/) (https://www.ietf-ipm.org/) which will henceforth contain IPMC- specific materials, including the updated Trust Legal Provisions (which have been renamed the Technical Legal Provisions) version 6.0 and beyond.
+### RFC8721
 
+*Advice to the Trustees of the IETF Trust on Rights to Be Granted in IETF Documents* {{!RFC8721}} is updated to be directed at the IETF IPMC Board of Directors, with the understanding that at no point is such advice is meant to be given in a manner that is inconsistent with applicable legal or regulatory requirements or with the Directors’ fiduciary duties.
 
-# Legal Compliance and Advice from the IETF
-
-The IETF IPMC is Delaware not-for-corporation and IRS designated 501(c)(3) public charity. Recognizing that the IETF IPMC and its director's first duty is compliance with laws and regulations, it is understood that at no point shall the advice and guidance from the IETF to the IETF IPMC, including that continained in this document and guidance such as found in {{!RFC8721}} shall be intended to ask for or require deviation from applicable legal requirements by the IPMC Directors.
-
-# IETF IPMC recognition of IETF BCPs
+### IETF IPMC recognition of IETF BCPs
 
 The IETF IPMC bylaws obligate the IETF IPMC to manage IETF assets for the benefit of the IETF. Therefore, the IETF IPMC looks to comply with IETF BCPs, as far as legally possible to guide its directors in carrying out that obligation.
 
