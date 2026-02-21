@@ -247,7 +247,7 @@ Table of Contents
 
 2.8.  IETF Trustees and IPMC Directors
 
-   RFC 8714 defines the selection and recall processes for IETF
+   [RFC8714] defines the selection and recall processes for IETF
    Trustees, under which Trustees are directly selected by the
    designated selecting organizations (the IETF NomCom, the IESG, and
    the ISOC Board of Trustees) to serve as Trustees of the IETF Trust.
