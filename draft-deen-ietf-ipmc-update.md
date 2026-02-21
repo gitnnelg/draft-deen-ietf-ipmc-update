@@ -121,7 +121,7 @@ The rights held by the IETF Trust have transferred to the IETF IPMC, as the succ
 
 {{!RFC8729}} defines a series of RFC Streams - IETF, IAB, IRTF and Independent Stream and {{!RFC9920}} adds the Editorial Stream that are the different distinct publication streams under the RFC Series.    Mentions of the IETF Trust and intellectual property rights management in RFC8729, RFC9920 and their related RFCs is updated to recognize the IETF IPMC as the successor and replacement to the IETF Trust as the party responsible for providing the role of copyright holder and manager for those RFC Streams.
 
-As described the IETF Trust [TLP 5.0 section 8](https://trustee.ietf.org/documents/trust-legal-provisions/), the IETF IPMC is assuming the management of the IP rights for the RFC Series streams declared in the TLP 5.0.  Additionally, the IETF IPMC also assumes this role for the Editorial RFC Stream which was created after TLP 5.0 was published.  
+As described the IETF Trust [TLP 5.0 section 8](https://trustee.ietf.org/documents/trust-legal-provisions/), the IETF IPMC is assuming the management of the IP rights for the RFC Series streams declared in the TLP 5.0.  Additionally, the IETF IPMC also assumes this role for the Editorial RFC Stream which was created after TLP 5.0 was published.
 
 Additional details on the RFC Series Streams can be found in the IETF IPMC TLP version 6.0.
 
