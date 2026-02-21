@@ -127,7 +127,7 @@ Additional details on the RFC Series Streams can be found in the IETF IPMC TLP v
 
 ##  IETF Trustees and IPMC Directors
 
-RFC 8714 defines the selection and recall processes for IETF Trustees, under which Trustees are directly selected by the designated selecting organizations (the IETF NomCom, the IESG, and the ISOC Board of Trustees) to serve as Trustees of the IETF Trust.
+{{!RFC8714}} defines the selection and recall processes for IETF Trustees, under which Trustees are directly selected by the designated selecting organizations (the IETF NomCom, the IESG, and the ISOC Board of Trustees) to serve as Trustees of the IETF Trust.
 
 The process for selecting IETF IPMC Directors is structurally different but functionally equivalent. While IPMC Directors are not appointed directly by the selecting organizations, the outcome is the same: director selection authority is effectively exercised by the same RFC 8714-designated bodies, and director terms track the same durations specified in RFC 8714 for IETF Trustees.
 
