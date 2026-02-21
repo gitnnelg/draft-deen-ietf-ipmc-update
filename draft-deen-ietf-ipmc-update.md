@@ -95,7 +95,7 @@ The IETF IPMC, has established [https://www.ietf-ipm.org](https://www.ietf-ipm.o
 
 The existing URLs in RFC5378 which reference the [IETF Trust](https://trustee.ietf.org/) web site (https://trustee.ietf.org/) will continue to be maintained as they appear in published documents and will be maintained in perpetuity.  There is no need to update or modify existing references in I-Ds or RFCs.
 
-Additionally, RFC5378 is hence updated to include the IPMC web site as the location for the IETF IPMC's licensing information for the assets help by the IETF IPMC, including an updates to the IETF Trust Legal Provisions (TLP) 5.0 which have been renamed the IETF IPMC Technical Legal Provisions (TLP) and updated to version 6.0.   
+Additionally, RFC5378 is hence updated to include the IPMC web site as the location for the IETF IPMC's licensing information for the assets help by the IETF IPMC, including an updates to the IETF Trust Legal Provisions (TLP) 5.0 which have been renamed the IETF IPMC Technical Legal Provisions (TLP) and updated to version 6.0.
 
 ## Use of IETF Trust and IETF IPMC in other IETF IPR Framework Documents
 
@@ -156,7 +156,7 @@ In practice, this means that while the legal act of election is performed by the
 The rights of the nominating organizations are protected by IPMC Bylaws § 3.6. That provision restricts the Board’s ability to:
 
 * Modify eligibility requirements for directors, or
-* Alter or eliminate the rights of nominating organizations to nominate directors,
+* Alter or eliminate the rights of nominating organizations to nominate directors
 
 unless such changes are approved by:
 
