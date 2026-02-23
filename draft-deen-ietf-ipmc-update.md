@@ -33,10 +33,7 @@ author:
     fullname: Glenn Deen
     organization: Comcast-NBCUniversal
     email: rgd.ietf@gmail.com
- -
-    fullname: Kristin Berdan
-    organization: Internet Security Research Group
-    email: kristin.berdan@gmail.com
+ 
 
 normative:
    RFC4748:
