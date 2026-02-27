@@ -76,7 +76,7 @@ Table of Contents
      2.2.  Websites and URLs
        2.2.1.  IETF IPR: ietf.org/ipr and ietf.org/process/ipr
        2.2.2.  IETF Trust: trustee.ietf.org
-       2.2.3.  IETF IPMC: www.ietf-ipmc.org
+       2.2.3.  IETF IPMC: www.ietf-ipm.org
      2.3.  Updates to RFC5378
        2.3.1.  IETF IPMC Technical Legal Provisions Relating to IETF
                Documents (TLP)
@@ -162,7 +162,7 @@ Table of Contents
    sections of I-Ds and RFCs will continue to work correctly for users
    of those documents.
 
-2.2.3.  IETF IPMC: www.ietf-ipmc.org
+2.2.3.  IETF IPMC: www.ietf-ipm.org
 
    The IETF IPMC, has established https://www.ietf-ipm.org
    (https://www.ietf-ipm.org) as its official corporate website which it
