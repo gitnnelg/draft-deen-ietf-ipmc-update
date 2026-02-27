@@ -84,7 +84,7 @@ The IETF publishes information on intellectual property rights (IPR) at [IETF IP
 
 The IETF Trust, historically has published information related to licensing, assets, finances and notices of actions and changes on it's web site [https://trustee.ietf.org](https://trustees.ietf.org).  This web site shall be maintained in perpetuity as URLs to it appear in published documents and the Trust Legal Provisions (TLP) version 1.0-5.0 that were active at the time of an I-D submission and the date of a RFC publication will continue to apply to those works even after subsequent transfer of those IPR assets to the IETF IPMC.   The existing URLs in the required copyright boilerplate and other sections of I-Ds and RFCs will continue to work correctly for users of those documents.
 
-### IETF IPMC: www.ietf-ipmc.org
+### IETF IPMC: www.ietf-ipm.org
 
 The IETF IPMC, has established [https://www.ietf-ipm.org](https://www.ietf-ipm.org) as its official corporate website which it will use to publish governance and operational information including bylaws and financial statements and legal notices, along with the updated IETF IPMC published Technical Legal Provisions (TLP 6.0) which provide licensing terms for I-Ds and RFCs.
 
