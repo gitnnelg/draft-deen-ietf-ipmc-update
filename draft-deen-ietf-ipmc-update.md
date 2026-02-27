@@ -197,3 +197,4 @@ This document has no IANA actions.
 # Acknowledgments
 
 The IETF Trustees and IETF Intellectual Property Management Corporation directors during the restructuring of the IETF Trust to the IETF IPMC were: Glenn Deen, John Levine, Joel Halpern, Kathleen Moriarty, Victor Kuarsingh, Jon Peterson, Kristin Berdan, Wendy Seltzer.
+
