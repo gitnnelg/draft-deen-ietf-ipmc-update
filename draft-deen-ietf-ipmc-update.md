@@ -62,7 +62,7 @@ The IETF Trust, a Virginia trust, was established in 2005 as the intellectual pr
 
 The IETF Intellectual Property Management Corporation (IPMC), a Delaware not-for-profit corporation was established in December 2022 with the intention of being the successor to the IETF Trust, replacing it and assuming all of its roles and responsibilities. Since its establishment the IETF IPMC has been undertaking the necessary steps to establish itself as a 501c3 non-profit, to prepare for and execute the transfer of all assets held by the IETF Trust, and to update where necessary agreements and IETF documents to complete the task of assuming the role as the replacement of the IETF Trust.
 
-The IETF Trust has never held or been involved in patents and likewise, the IETF IPMC will continue not being involved with patent related issues.
+The IETF Trust has never held or been involved in patents and likewise, the IETF IPMC will continue not being involved with any patent related activity.
 
 This document updates RFC 5378, RFC8714, RFC8721 and other IETF documents to recognize that the IETF IPMC is now the proper custodian of all IETF-related intellectual property rights and successor in interest to the IETF Trust.
 
@@ -106,7 +106,7 @@ TLP 6.0 is publised by the IETF IPMC on its website.
 
 All references to the IETF Trust in {{!RFC5378}} (BCP78) and related operational documents shall be read as referring to the IETF IPMC effective upon the transition.
 
-Updated versions of required copyright notices in I-Ds and RFCs reflecting this change can be found in Section 6 of the TLP 6.0
+Updated versions of required copyright notices in I-Ds and RFCs reflecting this change can be found in Section 6 of the TLP 6.0.
 
 Note that no required retroactive changes of copyright notices in prior IETF documents are to be made.
 
