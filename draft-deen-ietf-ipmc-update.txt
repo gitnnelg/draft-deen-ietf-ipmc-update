@@ -4,8 +4,9 @@
 
 gen                                                              G. Deen
 Internet-Draft                                      Comcast-NBCUniversal
-Intended status: Informational                          27 February 2026
-Expires: 31 August 2026
+Updates: 5378, 8714, 8721 (if approved)                     6 March 2026
+Intended status: Informational                                          
+Expires: 7 September 2026
 
 
      Update to Recognize the IETF IPMC as the IETF Trust Successor
@@ -52,7 +53,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 31 August 2026.
+   This Internet-Draft will expire on 7 September 2026.
 
 Copyright Notice
 
