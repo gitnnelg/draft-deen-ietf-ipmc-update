@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2026-03-05T01:00:37.379526+00:00",
+  "timestamp": "2026-03-08T01:00:24.607393+00:00",
   "repo": "gitnnelg/draft-deen-ietf-ipmc-update",
   "labels": [
     {
@@ -49,7 +49,24 @@
       "color": "ffffff"
     }
   ],
-  "issues": [],
+  "issues": [
+    {
+      "number": 2,
+      "id": "I_kwDOQNtFFc7wfvjJ",
+      "title": "Add \"Updates\" header",
+      "url": "https://github.com/gitnnelg/draft-deen-ietf-ipmc-update/issues/2",
+      "state": "CLOSED",
+      "author": "seanturner",
+      "authorAssociation": "CONTRIBUTOR",
+      "assignees": [],
+      "labels": [],
+      "body": "This document updates RFCs 5378, 8714, & 8721. Need to add the boilerplate header.",
+      "createdAt": "2026-03-06T15:40:59Z",
+      "updatedAt": "2026-03-06T17:27:43Z",
+      "closedAt": "2026-03-06T17:27:43Z",
+      "comments": []
+    }
+  ],
   "pulls": [
     {
       "number": 1,
@@ -102,6 +119,48 @@
           "body": "",
           "createdAt": "2025-11-05T18:52:53Z",
           "updatedAt": "2025-11-05T18:52:53Z",
+          "comments": []
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "id": "PR_kwDOQNtFFc7IiQcz",
+      "title": "Addresses #2: Added Updates Header",
+      "url": "https://github.com/gitnnelg/draft-deen-ietf-ipmc-update/pull/3",
+      "state": "MERGED",
+      "author": "seanturner",
+      "authorAssociation": "CONTRIBUTOR",
+      "assignees": [],
+      "labels": [],
+      "body": "Closes #2.",
+      "createdAt": "2026-03-06T15:41:50Z",
+      "updatedAt": "2026-03-06T17:27:41Z",
+      "baseRepository": "gitnnelg/draft-deen-ietf-ipmc-update",
+      "baseRefName": "main",
+      "baseRefOid": "96bb26cfad2350526ab727d19983fbbe9b93ef44",
+      "headRepository": "seanturner/draft-deen-ietf-ipmc-update",
+      "headRefName": "patch-1",
+      "headRefOid": "7b5d98fb472b282efbe4014ba61fd84efc840b63",
+      "closedAt": "2026-03-06T17:27:41Z",
+      "mergedAt": "2026-03-06T17:27:41Z",
+      "mergedBy": "gitnnelg",
+      "mergeCommit": {
+        "oid": "561aa41b6665d2a65b9e64045f29d69df9469fbf"
+      },
+      "comments": [],
+      "reviews": [
+        {
+          "id": "PRR_kwDOQNtFFc7owgbK",
+          "commit": {
+            "abbreviatedOid": "7b5d98f"
+          },
+          "author": "gitnnelg",
+          "authorAssociation": "OWNER",
+          "state": "APPROVED",
+          "body": "Good changes, thanks for the suggestion/PR.",
+          "createdAt": "2026-03-06T17:27:06Z",
+          "updatedAt": "2026-03-06T17:27:06Z",
           "comments": []
         }
       ]
