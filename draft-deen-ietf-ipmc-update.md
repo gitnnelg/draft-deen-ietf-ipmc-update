@@ -94,13 +94,13 @@ Cross reference navigation links on the old IETF Trust and the new IETF IPMC web
 
 RFC5378 has a number of cited URLs directing readers to the locations of various IPR related information.   The IETF Trust web site URLs shall be maintained to preserve the URLs to it found in RFC5378.  There is no need to update or modify existing references in I-Ds or RFCs.
 
-Additionally, RFC5378 is hence updated to include the IPMC web site as the location for the IETF IPMC's licensing information for the assets help by the IETF IPMC, inclunding required notices.
+Additionally, RFC5378 is hence updated to include the IPMC web site as the location for the IETF IPMC's licensing information for the assets help by the IETF IPMC, including required notices.
 
 ### IETF IPMC Technical Legal Provisions Relating to IETF Documents (TLP)
 
-The IETF Trust publised a series of documents commonly known as the "TLP" versions 1.0-5.0 containing basic common licensing declarations and required boilerplates and notices in I-Ds and RFCs.  The formal name for these documents was "IETF Trust Legal Provisions Relating to IETF Documents", hence the easier "TLP" common name.  To maintain this common terminology, while recongizing that the IETF IPMC is not a trust, the next version shall be also known as the TLP 6.0, with the new formal name being the "IETF IPMC Technical Legal Provisions Relating to IETF Documents" which shall be published starting as IETF IPMC TLP version 6.0 to maintain version consistency with the IETF Trust's TLP 1.0-5.0.
+The IETF Trust published a series of documents commonly known as the "TLP" versions 1.0-5.0 containing basic common licensing declarations and required boilerplates and notices in I-Ds and RFCs.  The formal name for these documents was "IETF Trust Legal Provisions Relating to IETF Documents", hence the easier "TLP" common name.  To maintain this common terminology, while recognizing that the IETF IPMC is not a trust, the next version shall be also known as the TLP 6.0, with the new formal name being the "IETF IPMC Technical Legal Provisions Relating to IETF Documents" which shall be published starting as IETF IPMC TLP version 6.0 to maintain version consistency with the IETF Trust's TLP 1.0-5.0.
 
-TLP 6.0 is publised by the IETF IPMC on its website.
+TLP 6.0 is published by the IETF IPMC on its website.
 
 ## Use of IETF Trust and IETF IPMC in other IETF IPR Framework Documents
 
@@ -110,7 +110,7 @@ Updated versions of required copyright notices in I-Ds and RFCs reflecting this 
 
 Note that no required retroactive changes of copyright notices in prior IETF documents are to be made.
 
-While it is not necssary to update pre-IPMC copyright notices, it is correct and accurate to refer to the IETF IPMC as the holder of all the intellectual property rights and assets previously held by the IETF Trust, since these have all been moved to the IETF IPMC.
+While it is not necessary to update pre-IPMC copyright notices, it is correct and accurate to refer to the IETF IPMC as the holder of all the intellectual property rights and assets previously held by the IETF Trust, since these have all been moved to the IETF IPMC.
 
 ## RFC8721 Advice to the IPMC Directors on the IETF IPMC on Rights to be Granted in IETF Documents
 
@@ -122,9 +122,9 @@ The intellectual property rights held by the IETF Trust have been transferred to
 
 ## RFC Streams
 
-{{!RFC8729}} defines a series of RFC Streams - IETF, IAB, IRTF and Independent Stream and {{!RFC9920}} adds the Editorial Stream as the different distinct publication streams under the RFC Series.    Mentions of the IETF Trust and intellectual property rights management in RFC8729, RFC9920 and their related RFCs are updated to recognize the IETF IPMC as the successor and replacement to the IETF Trust as the party responsible for providing the same role of copyright holder and adminstrator for those RFC Streams.
+{{!RFC8729}} defines a series of RFC Streams - IETF, IAB, IRTF and Independent Stream and {{!RFC9920}} adds the Editorial Stream as the different distinct publication streams under the RFC Series.    Mentions of the IETF Trust and intellectual property rights management in RFC8729, RFC9920 and their related RFCs are updated to recognize the IETF IPMC as the successor and replacement to the IETF Trust as the party responsible for providing the same role of copyright holder and administrator for those RFC Streams.
 
-Specifics for each RFC Series Stream were described the IETF Trust's TLP 5.0 section 8, with the exception of the Editorial Stream which was not mentioned explicity in TLP 5.0 due to its creation after the publication of TLP 5.0. The IETF IPMC is assuming the role of the IETF Trust as described in TLP 5.0 and additionally it is formally adding the Editorial Stream into TLP 6.0.
+Specifics for each RFC Series Stream were described the IETF Trust's TLP 5.0 section 8, with the exception of the Editorial Stream which was not mentioned explicitly in TLP 5.0 due to its creation after the publication of TLP 5.0. The IETF IPMC is assuming the role of the IETF Trust as described in TLP 5.0 and additionally it is formally adding the Editorial Stream into TLP 6.0.
 
 Additional details on the RFC Series Streams can be found in the IETF IPMC TLP version 6.0 published on the IPMC website.
 
