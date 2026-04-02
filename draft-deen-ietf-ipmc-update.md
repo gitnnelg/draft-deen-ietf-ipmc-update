@@ -114,7 +114,7 @@ While it is not necessary to update pre-IPMC copyright notices, it is correct an
 
 ## RFC8721 Advice to the IPMC Directors on the IETF IPMC on Rights to be Granted in IETF Documents
 
-{{!RFC8721}} provides advice to the IETF Trustees of the IETF Trust on rights to be granted in IETF documents.  This advice is now direxted to the IETF IPMC Board of Directors in the same capacity.
+{{!RFC8721}} provides advice to the IETF Trustees of the IETF Trust on rights to be granted in IETF documents.  This advice is now directed to the IETF IPMC Board of Directors in the same capacity.
 
 ## Intellectual Property Rights Held by IETF Trust
 
