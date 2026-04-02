@@ -4,9 +4,9 @@
 
 gen                                                              G. Deen
 Internet-Draft                                      Comcast-NBCUniversal
-Updates: 5378, 8714, 8721 (if approved)                     1 April 2026
+Updates: 5378, 8714, 8721 (if approved)                     2 April 2026
 Intended status: Informational                                          
-Expires: 3 October 2026
+Expires: 4 October 2026
 
 
      Update to Recognize the IETF IPMC as the IETF Trust Successor
@@ -53,7 +53,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 3 October 2026.
+   This Internet-Draft will expire on 4 October 2026.
 
 Copyright Notice
 
@@ -227,7 +227,7 @@ Table of Contents
       be Granted in IETF Documents
 
    [RFC8721] provides advice to the IETF Trustees of the IETF Trust on
-   rights to be granted in IETF documents.  This advice is now direxted
+   rights to be granted in IETF documents.  This advice is now directed
    to the IETF IPMC Board of Directors in the same capacity.
 
 2.6.  Intellectual Property Rights Held by IETF Trust
