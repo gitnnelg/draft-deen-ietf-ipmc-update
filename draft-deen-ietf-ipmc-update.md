@@ -136,7 +136,7 @@ The process for selecting IETF IPMC Directors is structurally different but func
 
 ### Corporate Governance Context
 
-The IETF IPMC is a Delaware nonstock corporation. Because Delaware General Corporation Law (DGCL) does not provide for the appointment of directors by third-parties, such corporations typically operate with self‑perpetuating boards, meaning that the sitting directors are the membership class. This governance model is expressly reflected in the IPMC bylaws.
+The IETF IPMC is a Delaware nonstock corporation. Because Delaware General Corporation Law (DGCL) does not provide for the appointment of directors by third-parties, such corporations typically operate with self‑perpetuating boards, meaning that the directors are elected by the sitting board rather than by shareholders or third-parties This governance model is expressly reflected in the IPMC bylaws.
 
 ### IPMC Director Selection Mechanism
 
