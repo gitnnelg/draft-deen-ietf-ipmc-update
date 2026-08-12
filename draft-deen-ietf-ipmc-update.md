@@ -203,7 +203,7 @@ This document has no IANA actions.
 
 # Acknowledgments
 
-The IETF Trustees and IETF Intellectual Property Management Corporation directors during the restructuring of the IETF Trust to the IETF IPMC were: 
+The IETF Trustees and IETF Intellectual Property Management Corporation directors during the restructuring of the IETF Trust to the IETF IPMC were:
 
 - Kristin Berdan
 - Glenn Deen
