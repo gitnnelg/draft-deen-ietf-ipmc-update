@@ -34,7 +34,6 @@ author:
     organization: Comcast-NBCUniversal
     email: rgd.ietf@gmail.com
 
-
 normative:
    RFC5378:
    RFC8714:
