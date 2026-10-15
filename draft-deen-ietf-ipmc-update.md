@@ -44,14 +44,14 @@ normative:
 
 informative:
   IPMC-BYLAWS:
-  title: "BY-LAWS OF IETF INTELLECTUAL PROPERTY MANAGEMENT COPRPORATION"
-  target: https://www.ietf-ipm.org/administration/bylaws/
-  date: 2025-12-10
+    title: "BY-LAWS OF IETF INTELLECTUAL PROPERTY MANAGEMENT CORPORATION"
+    target: https://www.ietf-ipm.org/administration/bylaws/
+    date: 2025-12-10
 
   TRUST-TLP:
-  title: "Corrected Legal Provisions Relating to IETF Documents"
-  target: https://trustee.ietf.org/documents/trust-legal-provisions/
-  date: 2015-03-25
+    title: "Corrected Legal Provisions Relating to IETF Documents"
+    target: https://trustee.ietf.org/documents/trust-legal-provisions/
+    date: 2015-03-25
 
 
 --- abstract
@@ -149,11 +149,11 @@ The IETF IPMC is a Delaware nonstock corporation. Because Delaware General Corpo
 
 The process for IPMC board composition is defined in {{IPMC-BYLAWS}} § 3.3, and operates as follows:
 
-* Initial Board Formation (§ 3.3(a))
+* Initial Board Formation (Section 3.3(a))
 
 The initial directors of the IPMC were the IETF Trustees serving at the time of the IPMC’s incorporation. This ensured continuity of fiduciary responsibility and alignment between the Trust and the newly formed IPMC.
 
-* Subsequent Director Selection (§ 3.3(b))
+* Subsequent Director Selection (Section 3.3(b))
 
 Upon expiration of an IPMC director’s term or their resignation, the sitting IPMC Board elects a successor director. However, the pool of eligible candidates is constrained:
 
